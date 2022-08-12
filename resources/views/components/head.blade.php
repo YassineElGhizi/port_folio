@@ -21,6 +21,23 @@
         strong{
             color : #01ffac
         }
+        /* width */
+        ::-webkit-scrollbar {
+            width: 5px;
+        }
+        /* Track */
+        ::-webkit-scrollbar-track {
+            box-shadow: inset 0 0 1px black;
+        }
+        /* Handle */
+        ::-webkit-scrollbar-thumb {
+            background: #7fffd9;
+            border-radius: 3px;
+        }
+        /* Handle on hover */
+        ::-webkit-scrollbar-thumb:hover {
+            background: #7fffd9;
+        }
     </style>
 
 </head>

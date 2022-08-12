@@ -11,7 +11,7 @@
 <div class="d-none d-xl-block">
     <header class="rn-header-area d-flex align-items-start flex-column left-header-style">
         <div class="logo-area">
-            <a href="index.html">
+            <a>
                 <img src="https://avatars.githubusercontent.com/u/86019502?v=4" alt="personal-logo">
             </a>
         </div>
