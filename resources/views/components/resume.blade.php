@@ -479,7 +479,7 @@
                                 <div class="col-lg-6 col-md-6 col-12 mt_sm--60 mt-5">
                                     <div class="progress-wrapper">
                                         <div class="content">
-                                            <h4 class="maintitle">Frontend Skill</h4>
+                                            <h4 class="maintitle">Frontend Skills</h4>
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
                                                 <h6 class="heading heading-h6">VueJs</h6>
@@ -572,7 +572,7 @@
                                                         - <strong>Development</strong>  of <strong>web scrapers</strong> using <strong>Python</strong>
                                                         <br>
                                                         <br>
-                                                        - <strong>Rest API Development</strong> with <strong>Flask</strong> to recieveand store data from the web scrapers.
+                                                        - <strong>Rest API Development</strong> with <strong>Flask</strong> to receive and store data from the web scrapers.
                                                         <br>
                                                         <br>
                                                         - <strong>Development</strong> of a <strong>Full Stack Web Application</strong> in <strong>Laravel</strong>  to control the scraping process, translating, reviewing and correcting the collected data.
