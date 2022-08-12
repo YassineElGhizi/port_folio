@@ -51,7 +51,7 @@
     <div class="row align-items-center">
         <div class="col-6">
             <div class="logo">
-                <a href="index.html">
+                <a href="">
                     <img src="https://avatars.githubusercontent.com/u/86019502?v=4" alt="Logo" style="border-radius: 50%">
                 </a>
             </div>
@@ -72,7 +72,7 @@
     <div class="inner">
         <div class="menu-top">
             <div class="menu-header">
-                <a class="logo" href="index.html">
+                <a class="logo" href="">
                     <img src="https://avatars.githubusercontent.com/u/86019502?v=4" alt="Personal Portfolio" style="border-radius: 50%">
                 </a>
                 <div class="close-button">
