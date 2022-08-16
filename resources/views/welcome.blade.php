@@ -6,7 +6,6 @@
 <body class="template-color-1 home-sticky spybody" data-spy="scroll" data-target=".navbar-example2" data-offset="150">
 
 
-
 <!-- start Header area -->
 <div class="d-none d-xl-block">
     <header class="rn-header-area d-flex align-items-start flex-column left-header-style">
@@ -52,7 +51,8 @@
         <div class="col-6">
             <div class="logo">
                 <a href="">
-                    <img src="https://avatars.githubusercontent.com/u/86019502?v=4" alt="Logo" style="border-radius: 50%">
+                    <img src="https://avatars.githubusercontent.com/u/86019502?v=4" alt="Logo"
+                         style="border-radius: 50%">
                 </a>
             </div>
         </div>
@@ -73,7 +73,8 @@
         <div class="menu-top">
             <div class="menu-header">
                 <a class="logo" href="">
-                    <img src="https://avatars.githubusercontent.com/u/86019502?v=4" alt="Personal Portfolio" style="border-radius: 50%">
+                    <img src="https://avatars.githubusercontent.com/u/86019502?v=4" alt="Personal Portfolio"
+                         style="border-radius: 50%">
                 </a>
                 <div class="close-button">
                     <button class="close-menu-activation close"><i data-feather="x"></i></button>
@@ -171,7 +172,7 @@
                                 <a href="javascript:void(0)">
                                     <img
                                         src="https://user-images.githubusercontent.com/86019502/144761617-7a15e130-5f76-4b92-aec1-63215bd0de51.png"
-                                        alt="Personal Portfolio Images">
+                                    >
                                 </a>
                             </div>
                             <div class="content">
@@ -197,7 +198,7 @@
                                 <a href="javascript:void(0)">
                                     <img
                                         src="https://user-images.githubusercontent.com/86019502/147651036-0b0e0e5b-ef1c-47c8-b8f6-6a2f50e24811.jpg"
-                                        alt="Personal Portfolio Images">
+                                    >
                                 </a>
                             </div>
                             <div class="content">
@@ -224,7 +225,7 @@
                                 <a href="javascript:void(0)">
                                     <img
                                         src="https://user-images.githubusercontent.com/86019502/175571375-2a56f5e1-904a-4d5b-bd32-5bcd94dbfee6.png"
-                                        alt="Personal Portfolio Images">
+                                    >
                                 </a>
                             </div>
                             <div class="content">
@@ -240,6 +241,59 @@
                     </div>
                 </div>
                 <!-- End Single Portfolio -->
+
+                <!-- Start Single Portfolio -->
+                <div data-aos="fade-up" data-aos-delay="500" data-aos-once="true"
+                     class="col-lg-6 col-xl-4 col-md-6 col-12 mt--50 mt_md--30 mt_sm--30">
+                    <div class="rn-portfolio" data-toggle="modal" data-target="#spring">
+                        <div class="inner">
+                            <div class="thumbnail">
+                                <a href="javascript:void(0)">
+                                    <img
+                                        src="https://user-images.githubusercontent.com/86019502/184879706-5280f2c3-180e-47ce-9c12-b13182d98fbe.png"
+                                    >
+                                </a>
+                            </div>
+                            <div class="content">
+                                <div class="category-info">
+                                    <div class="category-list">
+                                        <a href="javascript:void(0)">Spring Boot</a>
+                                    </div>
+                                </div>
+                                <h4 class="title"><a href="javascript:void(0)">Spring Boot - Thymeleaf
+                                        <i class="feather-arrow-up-right"></i></a></h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Portfolio -->
+
+                <!-- Start Single Portfolio -->
+                <div data-aos="fade-up" data-aos-delay="500" data-aos-once="true"
+                     class="col-lg-6 col-xl-4 col-md-6 col-12 mt--50 mt_md--30 mt_sm--30">
+                    <div class="rn-portfolio" data-toggle="modal" data-target="#stock">
+                        <div class="inner">
+                            <div class="thumbnail">
+                                <a href="javascript:void(0)">
+                                    <img
+                                        src="https://user-images.githubusercontent.com/86019502/152534410-aac498f0-ff84-4e9b-b788-c5945dd66be9.png">
+                                </a>
+                            </div>
+                            <div class="content">
+                                <div class="category-info">
+                                    <div class="category-list">
+                                        <a href="javascript:void(0)">Rest API</a>
+                                    </div>
+                                </div>
+                                <h4 class="title"><a href="javascript:void(0)">Stock Management System
+                                        <i class="feather-arrow-up-right"></i></a></h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Portfolio -->
+
+
             </div>
         </div>
     </div>
@@ -249,18 +303,18 @@
     @include('components.contact')
 
     <!-- Start Footer Area -->
-{{--    <div class="rn-footer-area rn-section-gap section-separator">--}}
-{{--        <div class="container">--}}
-{{--            <div class="row">--}}
-{{--                <div class="col-lg-12">--}}
-{{--                    <div class="footer-area text-center">--}}
-{{--                        <p class="description mt--30">Created by El GHIZI Yassine--}}
-{{--                        </p>--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-{{--            </div>--}}
-{{--        </div>--}}
-{{--    </div>--}}
+    {{--    <div class="rn-footer-area rn-section-gap section-separator">--}}
+    {{--        <div class="container">--}}
+    {{--            <div class="row">--}}
+    {{--                <div class="col-lg-12">--}}
+    {{--                    <div class="footer-area text-center">--}}
+    {{--                        <p class="description mt--30">Created by El GHIZI Yassine--}}
+    {{--                        </p>--}}
+    {{--                    </div>--}}
+    {{--                </div>--}}
+    {{--            </div>--}}
+    {{--        </div>--}}
+    {{--    </div>--}}
     <!-- End Footer Area -->
     <!-- modal area -->
     <!-- Modal Portfolio Body area Start -->
@@ -384,6 +438,130 @@
         </div>
     </div>
 
+
+    <div class="modal fade" id="spring" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true"><i data-feather="x"></i></span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="row align-items-center">
+                        <div class="col-lg-6">
+                            <div class="portfolio-popup-thumbnail">
+                                <div class="image">
+                                    <img class="w-100"
+                                         src="https://user-images.githubusercontent.com/86019502/184879502-24bb332d-a70f-4d15-850a-c7cca8456e2a.png"
+                                         alt="slide">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="text-content">
+                                <h3>
+                                    <span>Full Stack Application</span>Java Spring Boot.
+                                </h3>
+                                <p class="mb--30">This project represents a Full stack application that includes the
+                                    following features ; classical authentication (email & Hashed password) , CRUD
+                                    operations with file upload. This application is built using Java Spring Boot &
+                                    thymeleaf</p>
+                                <br>
+                                <p><a class="title"
+                                      href="https://github.com/YassineElGhizi/spring_boot_mvc_with_authentication_todo_app"><i
+                                            class="feather-arrow-up-right"></i>Github Repo</a></p>
+                            </div>
+                            <!-- End of .text-content -->
+                        </div>
+                    </div>
+                    <!-- End of .row Body-->
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="modal fade" id="spring" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true"><i data-feather="x"></i></span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="row align-items-center">
+                        <div class="col-lg-6">
+                            <div class="portfolio-popup-thumbnail">
+                                <div class="image">
+                                    <img class="w-100"
+                                         src="https://user-images.githubusercontent.com/86019502/184879502-24bb332d-a70f-4d15-850a-c7cca8456e2a.png"
+                                         alt="slide">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="text-content">
+                                <h3>
+                                    <span>Full Stack Application</span>Java Spring Boot.
+                                </h3>
+                                <p class="mb--30">This project represents a Full stack application that includes the
+                                    following features ; classical authentication (email & Hashed password) , CRUD
+                                    operations with file upload. This application is built using Java Spring Boot &
+                                    thymeleaf</p>
+                                <br>
+                                <p><a class="title"
+                                      href="https://github.com/YassineElGhizi/spring_boot_mvc_with_authentication_todo_app"><i
+                                            class="feather-arrow-up-right"></i>Github Repo</a></p>
+                            </div>
+                            <!-- End of .text-content -->
+                        </div>
+                    </div>
+                    <!-- End of .row Body-->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="stock" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true"><i data-feather="x"></i></span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="row align-items-center">
+                        <div class="col-lg-6">
+                            <div class="portfolio-popup-thumbnail">
+                                <div class="image">
+                                    <img class="w-100"
+                                         src="https://user-images.githubusercontent.com/86019502/152534410-aac498f0-ff84-4e9b-b788-c5945dd66be9.png">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="text-content">
+                                <h3>
+                                    <span>Rest API</span>Java Spring Boot.
+                                </h3>
+                                <p class="mb--30">This GitHub repository represents the back end of the mobile
+                                    development module.</p>
+                                <br>
+                                <p><a class="title"
+                                      href="https://github.com/YassineElGhizi/gestion_de_stock_back_end_Spring_Boot "><i
+                                            class="feather-arrow-up-right"></i>Github Repo</a></p>
+                            </div>
+                            <!-- End of .text-content -->
+                        </div>
+                    </div>
+                    <!-- End of .row Body-->
+                </div>
+            </div>
+        </div>
+    </div>
 
 
     <!-- Back to  top Start -->

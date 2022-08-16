@@ -92,6 +92,24 @@
                                                 <div class="inner">
                                                     <div class="heading">
                                                         <div class="title">
+                                                            <h4>Practical SpringBoot Microservices Implementation Mastery</h4>
+                                                            <span>Aug 2022</span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="description">
+                                                    <a href="https://www.udemy.com/certificate/UC-6548395a-0390-4a03-875a-3057d83a56bf/">Show Credentials</a>
+                                                </div>
+                                            </div>
+                                            <!-- End Single List  -->
+
+
+                                            <!-- Start Single List  -->
+                                            <div class="resume-single-list">
+                                                <div class="inner">
+                                                    <div class="heading">
+                                                        <div class="title">
                                                             <h4>Big Data Engineer - Mastery Award 2021</h4>
                                                             <span>Jul 2021</span>
                                                         </div>
@@ -223,9 +241,9 @@
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.8s" data-wow-delay=".6s"
-                                                         role="progressbar" style="width: 85%" aria-valuenow="85"
+                                                         role="progressbar" style="width: 80%" aria-valuenow="85"
                                                          aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">85%</span></div>
+                                                            class="percent-label">80%</span></div>
                                                 </div>
                                             </div>
                                             <!-- End Single Progress Charts -->
@@ -374,9 +392,9 @@
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.8s" data-wow-delay=".6s"
-                                                         role="progressbar" style="width: 80%" aria-valuenow="85"
+                                                         role="progressbar" style="width: 85%" aria-valuenow="85"
                                                          aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">80%</span></div>
+                                                            class="percent-label">85%</span></div>
                                                 </div>
                                             </div>
                                             <!-- End Single Progress Charts -->
@@ -507,6 +525,20 @@
                                             <!-- End Single Progress Charts -->
 
 
+                                            <!-- Start Single Progress Charts -->
+                                            <div class="progress-charts">
+                                                <h6 class="heading heading-h6">Angular</h6>
+                                                <div class="progress">
+                                                    <div class="progress-bar wow fadeInLeft"
+                                                         data-wow-duration="0.6s" data-wow-delay=".4s"
+                                                         role="progressbar" style="width: 70%" aria-valuenow="85"
+                                                         aria-valuemin="0" aria-valuemax="100"><span
+                                                            class="percent-label">70%</span></div>
+                                                </div>
+                                            </div>
+                                            <!-- End Single Progress Charts -->
+
+
                                         </div>
                                     </div>
                                 </div>
@@ -554,6 +586,9 @@
                                                         <br>
                                                         <br>
                                                         - <strong>Deployment</strong> of the system to the cloud (<strong>ubuntu server</strong>  & <strong>Nginx</strong> ).
+                                                        <br>
+                                                        <br>
+                                                        -Extra: Development and deployment of a data pipeline: <strong>image processing (Watermark removal)</strong> .
                                                     </p>
                                                 </div>
                                             </div>
@@ -592,13 +627,9 @@
                                                         </div>
                                                     </div>
                                                     <p class="description">
-                                                        - <strong>Study</strong>, <strong>Design</strong>  and <strong>development</strong> of a RestAPI with <strong>Laravel</strong>
+                                                        Design and development of a web application  with some advanced features (barcode scanner,  web sockets) with :
                                                         <br>
-                                                        <br>
-                                                        - <strong>Frontend developpement</strong> with ReactJS.
-                                                        <br>
-                                                        <br>
-                                                        - using <strong>Mysql</strong> as database management system.
+                                                        <strong>ReactJs</strong> - <strong>Laravel API</strong> - <strong>MySQL</strong>.
                                                     </p>
                                                 </div>
                                             </div>
