@@ -216,6 +216,32 @@
                 </div>
                 <!-- End Single Portfolio -->
 
+
+                <!-- Start Single Portfolio -->
+                <div data-aos="fade-up" data-aos-delay="500" data-aos-once="true"
+                     class="col-lg-6 col-xl-4 col-md-6 col-12 mt--50 mt_md--30 mt_sm--30">
+                    <div class="rn-portfolio" data-toggle="modal" data-target="#pfe">
+                        <div class="inner">
+                            <div class="thumbnail">
+                                <a href="javascript:void(0)">
+                                    <img src="{{url('/images/pfe.png')}}">
+                                </a>
+                            </div>
+                            <div class="content">
+                                <div class="category-info">
+                                    <div class="category-list">
+                                        <a href="javascript:void(0)">Data Engineering</a>
+                                    </div>
+                                </div>
+                                <h4 class="title"><a href="javascript:void(0)">End of Study Project : Price Comparator
+                                        System
+                                        <i class="feather-arrow-up-right"></i></a></h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Portfolio -->
+
                 <!-- Start Single Portfolio -->
                 <div data-aos="fade-up" data-aos-delay="500" data-aos-once="true"
                      class="col-lg-6 col-xl-4 col-md-6 col-12 mt--50 mt_md--30 mt_sm--30">
@@ -388,6 +414,48 @@
                                 <p><a class="title"
                                       href="https://github.com/YassineElGhizi/content_based_image_search_gabor_filters"><i
                                             class="feather-arrow-up-right"></i>Github Repo</a></p>
+                            </div>
+                            <!-- End of .text-content -->
+                        </div>
+                    </div>
+                    <!-- End of .row Body-->
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="modal fade" id="pfe" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true"><i data-feather="x"></i></span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="row align-items-center">
+                        <div class="col-lg-6">
+                            <div class="portfolio-popup-thumbnail">
+                                <div class="image">
+                                    <img class="w-100" src="{{url('/images/pfe.png')}}">
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="text-content">
+                                <h3>
+                                    <span>Data Engineering</span> End Of Study Project : Price Comparator System.
+                                </h3>
+                                <p class="mb--30">A complete system that contains two subsystems, the first one
+                                    represent the data collecting and engineering step in which we apply the ETL process
+                                    that includes (web scraping, cloud storage, mapping and data migration from the
+                                    data collecting server to the server that contains the web application).<br>The
+                                    second subsystem represent a web application ; in this server there are two rest
+                                    apis, one is responsible for receiving data and storing it, and the second is
+                                    responsible for serving the data to a front web application </p>
+                                <br>
                             </div>
                             <!-- End of .text-content -->
                         </div>
