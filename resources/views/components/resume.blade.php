@@ -623,7 +623,7 @@
                                                     <div class="heading">
                                                         <div class="title">
                                                             <h4>Bachelor Degree : End of Study Internship</h4>
-                                                            <span>Full Stack Developer (Mar 2020 - Aug 2020)</span>
+                                                            <span>Full Stack Developer (Feb 2020 - Aug 2020)</span>
                                                         </div>
                                                     </div>
                                                     <p class="description">
