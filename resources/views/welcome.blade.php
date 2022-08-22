@@ -276,7 +276,7 @@
                             <div class="thumbnail">
                                 <a href="javascript:void(0)">
                                     <img
-                                        src="https://user-images.githubusercontent.com/86019502/184879706-5280f2c3-180e-47ce-9c12-b13182d98fbe.png"
+                                        src="https://user-images.githubusercontent.com/86019502/185987109-a7bcf75b-d463-4756-b132-18d80d5b46ff.png"
                                     >
                                 </a>
                             </div>
@@ -521,7 +521,7 @@
                             <div class="portfolio-popup-thumbnail">
                                 <div class="image">
                                     <img class="w-100"
-                                         src="https://user-images.githubusercontent.com/86019502/184879502-24bb332d-a70f-4d15-850a-c7cca8456e2a.png"
+                                         src="https://user-images.githubusercontent.com/86019502/185987109-a7bcf75b-d463-4756-b132-18d80d5b46ff.png"
                                          alt="slide">
                                 </div>
                             </div>
@@ -531,10 +531,7 @@
                                 <h3>
                                     <span>Full Stack Application</span>Java Spring Boot.
                                 </h3>
-                                <p class="mb--30">This project represents a Full stack application that includes the
-                                    following features ; classical authentication (email & Hashed password) , CRUD
-                                    operations with file upload. This application is built using Java Spring Boot &
-                                    thymeleaf</p>
+                                <p class="mb--30">This project represents a Full stack web application that includes the following features ; authentication ,sessions management, CRUD operations ,supporting file upload. This application is built using Java Spring Boot & thymeleaf.</p>
                                 <br>
                                 <p><a class="title"
                                       href="https://github.com/YassineElGhizi/spring_boot_mvc_with_authentication_todo_app"><i
