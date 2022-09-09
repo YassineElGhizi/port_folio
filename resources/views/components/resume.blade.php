@@ -1,4 +1,3 @@
-
 <!-- Start Resume Area -->
 <div class="rn-resume-area rn-section-gap section-separator" id="resume">
     <div class="container">
@@ -18,7 +17,8 @@
                            aria-controls="education" aria-selected="false">education</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" id="professional-tab" data-toggle="tab" href="#professional" role="tab"
+                        <a class="nav-link active" id="professional-tab" data-toggle="tab" href="#professional"
+                           role="tab"
                            aria-controls="professional" aria-selected="false">professional
                             Skills</a>
                     </li>
@@ -73,7 +73,6 @@
                                             <!-- End Single List  -->
 
 
-
                                         </div>
                                     </div>
                                 </div>
@@ -92,14 +91,16 @@
                                                 <div class="inner">
                                                     <div class="heading">
                                                         <div class="title">
-                                                            <h4>Practical SpringBoot Microservices Implementation Mastery</h4>
+                                                            <h4>Practical SpringBoot Microservices Implementation
+                                                                Mastery</h4>
                                                             <span>Aug 2022</span>
                                                         </div>
                                                     </div>
                                                 </div>
 
                                                 <div class="description">
-                                                    <a href="https://www.udemy.com/certificate/UC-6548395a-0390-4a03-875a-3057d83a56bf/">Show Credentials</a>
+                                                    <a href="https://www.udemy.com/certificate/UC-6548395a-0390-4a03-875a-3057d83a56bf/">Show
+                                                        Credentials</a>
                                                 </div>
                                             </div>
                                             <!-- End Single List  -->
@@ -117,11 +118,11 @@
                                                 </div>
 
                                                 <div class="description">
-                                                    <a href="https://www.credly.com/badges/ba6c6832-9644-45be-a5ae-50d7db72f980?source=linked_in_profile">Show Credentials</a>
+                                                    <a href="https://www.credly.com/badges/ba6c6832-9644-45be-a5ae-50d7db72f980?source=linked_in_profile">Show
+                                                        Credentials</a>
                                                 </div>
                                             </div>
                                             <!-- End Single List  -->
-
 
 
                                             <!-- Start Single List  -->
@@ -135,11 +136,11 @@
                                                     </div>
                                                 </div>
                                                 <div class="description">
-                                                    <a href="https://www.credly.com/badges/4143fc26-b705-43e4-8177-790c41e5dfce?source=linked_in_profile">Show Credentials</a>
+                                                    <a href="https://www.credly.com/badges/4143fc26-b705-43e4-8177-790c41e5dfce?source=linked_in_profile">Show
+                                                        Credentials</a>
                                                 </div>
                                             </div>
                                             <!-- End Single List  -->
-
 
 
                                             <!-- Start Single List  -->
@@ -153,7 +154,8 @@
                                                     </div>
                                                 </div>
                                                 <div class="description">
-                                                    <a href="https://www.udemy.com/certificate/UC-6bad41a5-d391-4044-be40-e8be65624bfc/">Show Credentials</a>
+                                                    <a href="https://www.udemy.com/certificate/UC-6bad41a5-d391-4044-be40-e8be65624bfc/">Show
+                                                        Credentials</a>
                                                 </div>
                                             </div>
                                             <!-- End Single List  -->
@@ -169,7 +171,8 @@
                                                     </div>
                                                 </div>
                                                 <p class="description">
-                                                    <a href="https://www.udemy.com/certificate/UC-26b8c60b-65ed-44f5-8586-808d47a8e435/">Show Credentials</a>
+                                                    <a href="https://www.udemy.com/certificate/UC-26b8c60b-65ed-44f5-8586-808d47a8e435/">Show
+                                                        Credentials</a>
                                                 </p>
                                             </div>
                                             <!-- End Single List  -->
@@ -270,7 +273,7 @@
                                 <div class="col-lg-6 col-md-6 col-12">
                                     <div class="progress-wrapper">
                                         <div class="content">
-                                            <h4 class="maintitle">Database Administration</h4>
+                                            <h4 class="maintitle">DB Administration</h4>
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
                                                 <h6 class="heading heading-h6">MySql</h6>
@@ -346,7 +349,7 @@
                                 <div class="col-lg-6 col-md-6 col-12 mt_sm--60 mt-5">
                                     <div class="progress-wrapper">
                                         <div class="content">
-                                            <h4 class="maintitle">Programming languages</h4>
+                                            <h4 class="maintitle">Languages</h4>
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
                                                 <h6 class="heading heading-h6">Python</h6>
@@ -368,7 +371,7 @@
                                                          data-wow-duration="0.6s" data-wow-delay=".4s"
                                                          role="progressbar" style="width: 95%" aria-valuenow="85"
                                                          aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">95%</span></div>
+                                                            class="percent-label">90%</span></div>
                                                 </div>
                                             </div>
                                             <!-- End Single Progress Charts -->
@@ -394,7 +397,7 @@
                                                          data-wow-duration="0.8s" data-wow-delay=".6s"
                                                          role="progressbar" style="width: 85%" aria-valuenow="85"
                                                          aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">85%</span></div>
+                                                            class="percent-label">90%</span></div>
                                                 </div>
                                             </div>
                                             <!-- End Single Progress Charts -->
@@ -500,19 +503,6 @@
                                             <h4 class="maintitle">Frontend Skills</h4>
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
-                                                <h6 class="heading heading-h6">VueJs</h6>
-                                                <div class="progress">
-                                                    <div class="progress-bar wow fadeInLeft"
-                                                         data-wow-duration="0.5s" data-wow-delay=".3s"
-                                                         role="progressbar" style="width: 75%" aria-valuenow="85"
-                                                         aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">75%</span></div>
-                                                </div>
-                                            </div>
-                                            <!-- End Single Progress Charts -->
-
-                                            <!-- Start Single Progress Charts -->
-                                            <div class="progress-charts">
                                                 <h6 class="heading heading-h6">NuxtJs</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
@@ -570,25 +560,34 @@
                                                         </div>
                                                     </div>
                                                     <p class="description">
-                                                        - <strong>Design</strong> , <strong>study</strong>  and <strong>choice</strong>  of: technologies, caching, indexing and backup strategies
+                                                        - <strong>Design</strong> , <strong>study</strong> and <strong>choice</strong>
+                                                        of: technologies, caching, indexing and backup strategies.
                                                         <br>
                                                         <br>
-                                                        - <strong>Development</strong> , <strong>Automation</strong>  and <strong>planning</strong>  with <strong>Apache Airflow</strong>  an: ETL Data pipelines ( <strgon>web scraping</strgon>  and <strong>Amazon S3</strong> ), and a data pipeline for data migration from one server to another.
+                                                        - <strong>Development</strong> and <strong>Automation</strong>
+                                                        of <strong>ETL</strong> data pipelines using Apache <strong>Airflow</strong>
+                                                        , <strong>Python</strong> , <strong>Web Scraping</strong>,
+                                                        <strong>Amazon S3 bucket</strong>.
                                                         <br>
                                                         <br>
-                                                        - <strong>Rest API development</strong> of an API for data migration with <strong>FastAPI</strong>.
+                                                        - <strong>Development</strong> of a <strong>Restful API</strong>
+                                                        with <strong>FastAPI</strong>.
                                                         <br>
                                                         <br>
-                                                        - <strong>Rest API development</strong> of a web application with <strong>Laravel</strong>.
+                                                        - <strong>Development</strong> of a <strong>Restful API</strong>
+                                                        with <strong>Laravel</strong>.
                                                         <br>
                                                         <br>
-                                                        - API  <strong> performance optimization</strong> with <strong>Redis</strong> and <strong>database indexing</strong>.
+                                                        - API <strong> performance optimization</strong> with <strong>Redis</strong>
+                                                        and <strong>database indexing</strong>.
                                                         <br>
                                                         <br>
-                                                        - <strong>Deployment</strong> of the system to the cloud (<strong>ubuntu server</strong>  & <strong>Nginx</strong> ).
+                                                        - <strong>Deployment</strong> of the system to the cloud
+                                                        (<strong>ubuntu server</strong> & <strong>Nginx</strong> ).
                                                         <br>
                                                         <br>
-                                                        -Extra: Development and deployment of a data pipeline: <strong>image processing (Watermark removal)</strong> .
+                                                        -Extra: Development and deployment of a data pipeline: <strong>image
+                                                            processing (Watermark removal)</strong> .
                                                     </p>
                                                 </div>
                                             </div>
@@ -604,13 +603,19 @@
                                                         </div>
                                                     </div>
                                                     <p class="description">
-                                                        - <strong>Development</strong>  of <strong>web scrapers</strong> using <strong>Python</strong>
+                                                        - <strong>Development</strong> of <strong>web scrapers</strong>
+                                                        using <strong>Python</strong>
                                                         <br>
                                                         <br>
-                                                        - <strong>Rest API Development</strong> with <strong>Flask</strong> to receive and store data from the web scrapers.
+                                                        - <strong>Rest API Development</strong> with
+                                                        <strong>Flask</strong> to receive and store data from the web
+                                                        scrapers.
                                                         <br>
                                                         <br>
-                                                        - <strong>Development</strong> of a <strong>Full Stack Web Application</strong> in <strong>Laravel</strong>  to control the scraping process, translating, reviewing and correcting the collected data.
+                                                        - <strong>Development</strong> of a <strong>Full Stack Web
+                                                            Application</strong> in <strong>Laravel</strong> to control
+                                                        the scraping process, translating, reviewing and correcting the
+                                                        collected data.
                                                     </p>
                                                 </div>
                                             </div>
@@ -627,9 +632,11 @@
                                                         </div>
                                                     </div>
                                                     <p class="description">
-                                                        Design and development of a web application  with some advanced features (barcode scanner,  web sockets) with :
+                                                        Design and development of a web application with some advanced
+                                                        features (barcode scanner, web sockets) with :
                                                         <br>
-                                                        <strong>ReactJs</strong> - <strong>Laravel API</strong> - <strong>MySQL</strong>.
+                                                        <strong>ReactJs</strong> - <strong>Laravel API</strong> -
+                                                        <strong>MySQL</strong>.
                                                     </p>
                                                 </div>
                                             </div>

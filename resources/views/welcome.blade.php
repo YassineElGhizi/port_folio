@@ -302,16 +302,16 @@
                             <div class="thumbnail">
                                 <a href="javascript:void(0)">
                                     <img
-                                        src="https://user-images.githubusercontent.com/86019502/152534410-aac498f0-ff84-4e9b-b788-c5945dd66be9.png">
+                                        src="https://user-images.githubusercontent.com/86019502/189386615-871a81e3-8624-4627-9fa9-ffe9e0171bf9.png">
                                 </a>
                             </div>
                             <div class="content">
                                 <div class="category-info">
                                     <div class="category-list">
-                                        <a href="javascript:void(0)">Rest API</a>
+                                        <a href="javascript:void(0)">Full Stack Web App</a>
                                     </div>
                                 </div>
-                                <h4 class="title"><a href="javascript:void(0)">Stock Management System
+                                <h4 class="title"><a href="javascript:void(0)">Rock Paper Scissors
                                         <i class="feather-arrow-up-right"></i></a></h4>
                             </div>
                         </div>
@@ -409,7 +409,7 @@
                                     <span>Search Engine</span> Content based image search (Gabor Filters).
                                 </h3>
                                 <p class="mb--30">this project is a CBIR (content based image search) that uses Gabor
-                                    filters as the main mesure to find simular images to a given query image.</p>
+                                    filters as the main measure to find similar images to a given query image.</p>
                                 <br>
                                 <p><a class="title"
                                       href="https://github.com/YassineElGhizi/content_based_image_search_gabor_filters"><i
@@ -603,21 +603,20 @@
                             <div class="portfolio-popup-thumbnail">
                                 <div class="image">
                                     <img class="w-100"
-                                         src="https://user-images.githubusercontent.com/86019502/152534410-aac498f0-ff84-4e9b-b788-c5945dd66be9.png">
+                                         src="https://user-images.githubusercontent.com/86019502/189386636-349b9988-8c93-4d46-a3cf-eb44445871c2.png">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-6">
                             <div class="text-content">
                                 <h3>
-                                    <span>Rest API</span>Java Spring Boot.
+                                    Java Spring Boot & Angular.
                                 </h3>
-                                <p class="mb--30">This GitHub repository represents the back end of the mobile
-                                    development module.</p>
+                                <p class="mb--30">A rock paper scissors mini-game where you can play and compare you results with other players. This App has been developed using Java Spring Boot(JPA, Spring security) and Angular 14(State Management using Redux)</p>
                                 <br>
                                 <p><a class="title"
-                                      href="https://github.com/YassineElGhizi/gestion_de_stock_back_end_Spring_Boot "><i
-                                            class="feather-arrow-up-right"></i>Github Repo</a></p>
+                                      href="https://rock-paper-scissors.yassineelghizi.me/"><i
+                                            class="feather-arrow-up-right"></i>Play !</a></p>
                             </div>
                             <!-- End of .text-content -->
                         </div>
