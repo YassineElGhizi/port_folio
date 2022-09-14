@@ -240,20 +240,20 @@
 
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
-                                                <h6 class="heading heading-h6">ExpressJS</h6>
+                                                <h6 class="heading heading-h6">Spring Boot</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.8s" data-wow-delay=".6s"
-                                                         role="progressbar" style="width: 80%" aria-valuenow="85"
+                                                         role="progressbar" style="width: 85%" aria-valuenow="85"
                                                          aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">80%</span></div>
+                                                            class="percent-label">85%</span></div>
                                                 </div>
                                             </div>
                                             <!-- End Single Progress Charts -->
 
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
-                                                <h6 class="heading heading-h6">Spring Boot</h6>
+                                                <h6 class="heading heading-h6">ExpressJs</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.9s" data-wow-delay=".7s"
@@ -302,20 +302,20 @@
 
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
-                                                <h6 class="heading heading-h6">Microsoft SQL Server</h6>
+                                                <h6 class="heading heading-h6">MongoDB</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.7s" data-wow-delay=".5s"
                                                          role="progressbar" style="width: 95%" aria-valuenow="85"
                                                          aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">95%</span></div>
+                                                            class="percent-label">90%</span></div>
                                                 </div>
                                             </div>
                                             <!-- End Single Progress Charts -->
 
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
-                                                <h6 class="heading heading-h6">MongoDB</h6>
+                                                <h6 class="heading heading-h6">Microsoft SQL Server</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.8s" data-wow-delay=".6s"
@@ -365,11 +365,11 @@
 
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
-                                                <h6 class="heading heading-h6">PHP</h6>
+                                                <h6 class="heading heading-h6">JAVA</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.6s" data-wow-delay=".4s"
-                                                         role="progressbar" style="width: 95%" aria-valuenow="85"
+                                                         role="progressbar" style="width: 90%" aria-valuenow="85"
                                                          aria-valuemin="0" aria-valuemax="100"><span
                                                             class="percent-label">90%</span></div>
                                                 </div>
@@ -391,11 +391,11 @@
 
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
-                                                <h6 class="heading heading-h6">Java</h6>
+                                                <h6 class="heading heading-h6">PHP</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.8s" data-wow-delay=".6s"
-                                                         role="progressbar" style="width: 85%" aria-valuenow="85"
+                                                         role="progressbar" style="width: 90%" aria-valuenow="85"
                                                          aria-valuemin="0" aria-valuemax="100"><span
                                                             class="percent-label">90%</span></div>
                                                 </div>
@@ -503,13 +503,13 @@
                                             <h4 class="maintitle">Frontend Skills</h4>
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
-                                                <h6 class="heading heading-h6">NuxtJs</h6>
+                                                <h6 class="heading heading-h6">Angular</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.6s" data-wow-delay=".4s"
-                                                         role="progressbar" style="width: 70%" aria-valuenow="85"
+                                                         role="progressbar" style="width: 85%" aria-valuenow="85"
                                                          aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">70%</span></div>
+                                                            class="percent-label">85%</span></div>
                                                 </div>
                                             </div>
                                             <!-- End Single Progress Charts -->
@@ -517,13 +517,13 @@
 
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
-                                                <h6 class="heading heading-h6">Angular</h6>
+                                                <h6 class="heading heading-h6">NuxtJs</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.6s" data-wow-delay=".4s"
-                                                         role="progressbar" style="width: 70%" aria-valuenow="85"
+                                                         role="progressbar" style="width: 75%" aria-valuenow="85"
                                                          aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">70%</span></div>
+                                                            class="percent-label">75%</span></div>
                                                 </div>
                                             </div>
                                             <!-- End Single Progress Charts -->
@@ -565,17 +565,21 @@
                                                         <br>
                                                         <br>
                                                         - <strong>Development</strong> and <strong>Automation</strong>
-                                                        of <strong>ETL</strong> data pipelines using Apache <strong>Airflow</strong>
-                                                        , <strong>Python</strong> , <strong>Web Scraping</strong>,
+                                                        of <strong>ETL</strong> data pipelines using <strong>Apache
+                                                            Airflow</strong>
+                                                        , <strong>Python</strong> , <strong>MongoDB</strong>, <strong>Web
+                                                            Scraping</strong>,
                                                         <strong>Amazon S3 bucket</strong>.
                                                         <br>
                                                         <br>
-                                                        - <strong>Development</strong> of a <strong>Restful API</strong>
+                                                        - <strong>Development</strong> and
+                                                        <strong>Documentation</strong> of a <strong>Restful API</strong>
                                                         with <strong>FastAPI</strong>.
                                                         <br>
                                                         <br>
-                                                        - <strong>Development</strong> of a <strong>Restful API</strong>
-                                                        with <strong>Laravel</strong>.
+                                                        - <strong>Development</strong> of a <strong>Full Stack Web
+                                                            Application</strong> with <strong>NuxtJs, VueJs, Laravel,
+                                                            Mysql</strong>.
                                                         <br>
                                                         <br>
                                                         - API <strong> performance optimization</strong> with <strong>Redis</strong>
@@ -584,10 +588,6 @@
                                                         <br>
                                                         - <strong>Deployment</strong> of the system to the cloud
                                                         (<strong>ubuntu server</strong> & <strong>Nginx</strong> ).
-                                                        <br>
-                                                        <br>
-                                                        -Extra: Development and deployment of a data pipeline: <strong>image
-                                                            processing (Watermark removal)</strong> .
                                                     </p>
                                                 </div>
                                             </div>
@@ -607,7 +607,7 @@
                                                         using <strong>Python</strong>
                                                         <br>
                                                         <br>
-                                                        - <strong>Rest API Development</strong> with
+                                                        - <strong>Development of a Rest API </strong> with
                                                         <strong>Flask</strong> to receive and store data from the web
                                                         scrapers.
                                                         <br>

@@ -46,9 +46,8 @@
                         <div class="content">
                             <h4 class="title"><a>Full Stack web Applications</a></h4>
                             <p class="description">I develop full stack web applications using different frameworks such
-                                as :PHP Laravel,JavaScript ExpressJs,Python Flask. I can also work with frontend
-                                frameworks like : Angular and NuxtJs. <br> I'm comfortable with both the Sql and
-                                the NoSql Databases. </p>
+                                as :PHP Laravel, Java Spring Boot, JavaScript ExpressJs, Angular and NuxtJs. <br> My academic formation in Big Data Makes me comfortable with both the Structured and
+                                    non-structured Databases. </p>
 
                         </div>
                     </div>

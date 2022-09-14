@@ -129,9 +129,9 @@
                                 <span>I am a</span>
                             <!-- ROTATING TEXT -->
                             <span class="cd-words-wrapper">
-                                    <b class="is-visible">Backend Engineer.</b>
+                                    <b class="is-visible">Full Stack Engineer.</b>
                                     <b class="is-hidden">Data Engineer.</b>
-                                    <b class="is-hidden">Full Satck Engineer.</b>
+                                    <b class="is-hidden">Backend Engineer.</b>
                                 </span>
                             </span>
                         <!-- type headline end -->
@@ -220,21 +220,21 @@
                 <!-- Start Single Portfolio -->
                 <div data-aos="fade-up" data-aos-delay="500" data-aos-once="true"
                      class="col-lg-6 col-xl-4 col-md-6 col-12 mt--50 mt_md--30 mt_sm--30">
-                    <div class="rn-portfolio" data-toggle="modal" data-target="#pfe">
+                    <div class="rn-portfolio" data-toggle="modal" data-target="#ukranews">
                         <div class="inner">
                             <div class="thumbnail">
                                 <a href="javascript:void(0)">
-                                    <img src="{{url('/images/pfe.png')}}">
+                                    <img src="{{url('/images/ukranews/ukra2.png')}}">
                                 </a>
                             </div>
                             <div class="content">
                                 <div class="category-info">
                                     <div class="category-list">
-                                        <a href="javascript:void(0)">Data Engineering</a>
+                                        <a href="javascript:void(0)">Full Stack | Data Engineering</a>
                                     </div>
                                 </div>
-                                <h4 class="title"><a href="javascript:void(0)">End of Study Project : Price Comparator
-                                        System
+                                <h4 class="title"><a href="javascript:void(0)">News Platform Regarding The
+                                        Russo-Ukrainian War News
                                         <i class="feather-arrow-up-right"></i></a></h4>
                             </div>
                         </div>
@@ -308,10 +308,10 @@
                             <div class="content">
                                 <div class="category-info">
                                     <div class="category-list">
-                                        <a href="javascript:void(0)">Full Stack Web App</a>
+                                        <a href="javascript:void(0)">Full Stack Spring Boot/Angular</a>
                                     </div>
                                 </div>
-                                <h4 class="title"><a href="javascript:void(0)">Rock Paper Scissors
+                                <h4 class="title"><a href="javascript:void(0)">Rock Paper Scissors (In Production)
                                         <i class="feather-arrow-up-right"></i></a></h4>
                             </div>
                         </div>
@@ -425,7 +425,7 @@
     </div>
 
 
-    <div class="modal fade" id="pfe" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal fade" id="ukranews" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content">
                 <div class="modal-header">
@@ -438,7 +438,7 @@
                         <div class="col-lg-6">
                             <div class="portfolio-popup-thumbnail">
                                 <div class="image">
-                                    <img class="w-100" src="{{url('/images/pfe.png')}}">
+                                    <img class="w-100" src="{{url('/images/ukranews/ukra1.png')}}">
 
                                 </div>
                             </div>
@@ -446,16 +446,15 @@
                         <div class="col-lg-6">
                             <div class="text-content">
                                 <h3>
-                                    <span>Data Engineering</span> End Of Study Project : Price Comparator System.
+                                    <span>Full Stack | Data Engineering</span> News Platform Regarding The
+                                    Russo-Ukrainian War News.
                                 </h3>
-                                <p class="mb--30">A complete system that contains two subsystems, the first one
-                                    represent the data collecting and engineering step in which we apply the ETL process
-                                    that includes (web scraping, cloud storage, mapping and data migration from the
-                                    data collecting server to the server that contains the web application).<br>The
-                                    second subsystem represent a web application ; in this server there are two rest
-                                    apis, one is responsible for receiving data and storing it, and the second is
-                                    responsible for serving the data to a front web application </p>
+                                <p class="mb--30">This Web Application is the Fruits of a two Months Efforts. A Platform
+                                    That Covers The Latest Updates Regarding The Russo-ukrainian War. A project that is
+                                    Already In Production And That I'm Proud Of.</p>
                                 <br>
+                                <p><a class="title" href="https://ukranews.net/"><i
+                                            class="feather-arrow-up-right"></i>Visit The Website</a></p>
                             </div>
                             <!-- End of .text-content -->
                         </div>
@@ -531,7 +530,10 @@
                                 <h3>
                                     <span>Full Stack Application</span>Java Spring Boot.
                                 </h3>
-                                <p class="mb--30">This project represents a Full stack web application that includes the following features ; authentication ,sessions management, CRUD operations ,supporting file upload. This application is built using Java Spring Boot & thymeleaf.</p>
+                                <p class="mb--30">This project represents a Full stack web application that includes the
+                                    following features ; authentication ,sessions management, CRUD operations
+                                    ,supporting file upload. This application is built using Java Spring Boot &
+                                    thymeleaf.</p>
                                 <br>
                                 <p><a class="title"
                                       href="https://github.com/YassineElGhizi/spring_boot_mvc_with_authentication_todo_app"><i
@@ -612,7 +614,9 @@
                                 <h3>
                                     Java Spring Boot & Angular.
                                 </h3>
-                                <p class="mb--30">A rock paper scissors mini-game where you can play and compare you results with other players. This App has been developed using Java Spring Boot(JPA, Spring security) and Angular 14(State Management using Redux)</p>
+                                <p class="mb--30">A rock paper scissors mini-game where you can play and compare you
+                                    results with other players. This App has been developed using Java Spring Boot(JPA,
+                                    Spring security) and Angular 14(State Management using Redux)</p>
                                 <br>
                                 <p><a class="title"
                                       href="https://rock-paper-scissors.yassineelghizi.me/"><i
