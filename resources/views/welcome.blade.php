@@ -29,7 +29,7 @@
         </nav>
         <div class="footer">
             <div class="social-share-style-1 mt--40">
-                <span class="title">find with me</span>
+                <span class="title">find me in</span>
                 <ul class="social-share d-flex liststyle">
                     <li class="facebook">
                         <a href="https://github.com/YassineElGhizi"><i data-feather="github"></i></a>
@@ -208,8 +208,7 @@
                                     </div>
                                 </div>
                                 <h4 class="title"><a href="javascript:void(0)">Content based image search (Gabor
-                                        Filters)
-                                        maintain<i class="feather-arrow-up-right"></i></a></h4>
+                                        Filters)<i class="feather-arrow-up-right"></i></a></h4>
                             </div>
                         </div>
                     </div>

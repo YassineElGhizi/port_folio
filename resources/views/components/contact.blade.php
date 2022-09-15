@@ -14,17 +14,17 @@
                 <div class="contact-about-area">
                     <div class="title-area">
                         <h4 class="title">Yassine EL GHIZI</h4>
-                        <span style="color: #01ffac	">Data & Softeware Engineer</span>
+                        <span style="color: #01ffac	">Software Engineer</span>
                     </div>
                     <div class="description">
-                        <p>I am available for work opportunities. Connect with me using the credentials bellow or
+                        <p>I am available for work opportunities. Contact Me using the credentials bellow or
                             the form.
                         </p>
                         <span class="mail">Email: <a href="mailto:admin@example.com">yassine.ghizi2@gmail.com</a></span>
                         <span class="mail">Discord: peace#9694</span>
                     </div>
                     <div class="social-area">
-                        <div class="name">FIND WITH ME</div>
+                        <div class="name">FIND ME IN</div>
                         <div class="social-icone">
                             <a href="https://github.com/YassineElGhizi"><i data-feather="github"></i></a>
                             <a href="https://www.linkedin.com/in/yassine-el-ghizi/"><i data-feather="linkedin"></i></a>
