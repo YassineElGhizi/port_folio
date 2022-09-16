@@ -163,6 +163,58 @@
             </div>
 
             <div class="row row--25 mt--10 mt_md--10 mt_sm--10">
+
+
+                <!-- Start Single Portfolio -->
+                <div data-aos="fade-up" data-aos-delay="500" data-aos-once="true"
+                     class="col-lg-6 col-xl-4 col-md-6 col-12 mt--50 mt_md--30 mt_sm--30">
+                    <div class="rn-portfolio" data-toggle="modal" data-target="#ukranews">
+                        <div class="inner">
+                            <div class="thumbnail">
+                                <a href="javascript:void(0)">
+                                    <img src="{{url('/images/ukranews/ukra2.png')}}">
+                                </a>
+                            </div>
+                            <div class="content">
+                                <div class="category-info">
+                                    <div class="category-list">
+                                        <a href="javascript:void(0)">Full Stack | Data Engineering</a>
+                                    </div>
+                                </div>
+                                <h4 class="title"><a href="javascript:void(0)">News Platform Regarding The
+                                        Russo-Ukrainian War News
+                                        <i class="feather-arrow-up-right"></i></a></h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Portfolio -->
+
+                <!-- Start Single Portfolio -->
+                <div data-aos="fade-up" data-aos-delay="500" data-aos-once="true"
+                     class="col-lg-6 col-xl-4 col-md-6 col-12 mt--50 mt_md--30 mt_sm--30">
+                    <div class="rn-portfolio" data-toggle="modal" data-target="#stock">
+                        <div class="inner">
+                            <div class="thumbnail">
+                                <a href="javascript:void(0)">
+                                    <img
+                                        src="https://user-images.githubusercontent.com/86019502/189386615-871a81e3-8624-4627-9fa9-ffe9e0171bf9.png">
+                                </a>
+                            </div>
+                            <div class="content">
+                                <div class="category-info">
+                                    <div class="category-list">
+                                        <a href="javascript:void(0)">Full Stack Spring Boot/Angular</a>
+                                    </div>
+                                </div>
+                                <h4 class="title"><a href="javascript:void(0)">Rock Paper Scissors (In Production)
+                                        <i class="feather-arrow-up-right"></i></a></h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Portfolio -->
+
                 <!-- Start Single Portfolio -->
                 <div data-aos="fade-up" data-aos-delay="100" data-aos-once="true"
                      class="col-lg-6 col-xl-4 col-md-6 col-12 mt--50 mt_md--30 mt_sm--30">
@@ -215,58 +267,6 @@
                 </div>
                 <!-- End Single Portfolio -->
 
-
-                <!-- Start Single Portfolio -->
-                <div data-aos="fade-up" data-aos-delay="500" data-aos-once="true"
-                     class="col-lg-6 col-xl-4 col-md-6 col-12 mt--50 mt_md--30 mt_sm--30">
-                    <div class="rn-portfolio" data-toggle="modal" data-target="#ukranews">
-                        <div class="inner">
-                            <div class="thumbnail">
-                                <a href="javascript:void(0)">
-                                    <img src="{{url('/images/ukranews/ukra2.png')}}">
-                                </a>
-                            </div>
-                            <div class="content">
-                                <div class="category-info">
-                                    <div class="category-list">
-                                        <a href="javascript:void(0)">Full Stack | Data Engineering</a>
-                                    </div>
-                                </div>
-                                <h4 class="title"><a href="javascript:void(0)">News Platform Regarding The
-                                        Russo-Ukrainian War News
-                                        <i class="feather-arrow-up-right"></i></a></h4>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Single Portfolio -->
-
-                <!-- Start Single Portfolio -->
-                <div data-aos="fade-up" data-aos-delay="500" data-aos-once="true"
-                     class="col-lg-6 col-xl-4 col-md-6 col-12 mt--50 mt_md--30 mt_sm--30">
-                    <div class="rn-portfolio" data-toggle="modal" data-target="#express">
-                        <div class="inner">
-                            <div class="thumbnail">
-                                <a href="javascript:void(0)">
-                                    <img
-                                        src="https://user-images.githubusercontent.com/86019502/175571375-2a56f5e1-904a-4d5b-bd32-5bcd94dbfee6.png"
-                                    >
-                                </a>
-                            </div>
-                            <div class="content">
-                                <div class="category-info">
-                                    <div class="category-list">
-                                        <a href="javascript:void(0)">Rest API</a>
-                                    </div>
-                                </div>
-                                <h4 class="title"><a href="javascript:void(0)">ExpressJS - Rest API
-                                        <i class="feather-arrow-up-right"></i></a></h4>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Single Portfolio -->
-
                 <!-- Start Single Portfolio -->
                 <div data-aos="fade-up" data-aos-delay="500" data-aos-once="true"
                      class="col-lg-6 col-xl-4 col-md-6 col-12 mt--50 mt_md--30 mt_sm--30">
@@ -296,21 +296,22 @@
                 <!-- Start Single Portfolio -->
                 <div data-aos="fade-up" data-aos-delay="500" data-aos-once="true"
                      class="col-lg-6 col-xl-4 col-md-6 col-12 mt--50 mt_md--30 mt_sm--30">
-                    <div class="rn-portfolio" data-toggle="modal" data-target="#stock">
+                    <div class="rn-portfolio" data-toggle="modal" data-target="#express">
                         <div class="inner">
                             <div class="thumbnail">
                                 <a href="javascript:void(0)">
                                     <img
-                                        src="https://user-images.githubusercontent.com/86019502/189386615-871a81e3-8624-4627-9fa9-ffe9e0171bf9.png">
+                                        src="https://user-images.githubusercontent.com/86019502/175571375-2a56f5e1-904a-4d5b-bd32-5bcd94dbfee6.png"
+                                    >
                                 </a>
                             </div>
                             <div class="content">
                                 <div class="category-info">
                                     <div class="category-list">
-                                        <a href="javascript:void(0)">Full Stack Spring Boot/Angular</a>
+                                        <a href="javascript:void(0)">Rest API</a>
                                     </div>
                                 </div>
-                                <h4 class="title"><a href="javascript:void(0)">Rock Paper Scissors (In Production)
+                                <h4 class="title"><a href="javascript:void(0)">ExpressJS - Rest API
                                         <i class="feather-arrow-up-right"></i></a></h4>
                             </div>
                         </div>
