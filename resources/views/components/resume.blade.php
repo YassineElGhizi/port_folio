@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title text-center">
-                    <span class="subtitle">1+ Years of Experience</span>
+                    <span class="subtitle">1.5+ Years of Experience</span>
                     <h2 class="title">My Resume</h2>
                 </div>
             </div>
@@ -227,7 +227,7 @@
 
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
-                                                <h6 class="heading heading-h6">Flask</h6>
+                                                <h6 class="heading heading-h6">Flask - Django</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.7s" data-wow-delay=".5s"
@@ -238,18 +238,6 @@
                                             </div>
                                             <!-- End Single Progress Charts -->
 
-                                            <!-- Start Single Progress Charts -->
-                                            <div class="progress-charts">
-                                                <h6 class="heading heading-h6">Spring Boot</h6>
-                                                <div class="progress">
-                                                    <div class="progress-bar wow fadeInLeft"
-                                                         data-wow-duration="0.8s" data-wow-delay=".6s"
-                                                         role="progressbar" style="width: 85%" aria-valuenow="85"
-                                                         aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">85%</span></div>
-                                                </div>
-                                            </div>
-                                            <!-- End Single Progress Charts -->
 
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
@@ -257,12 +245,26 @@
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.9s" data-wow-delay=".7s"
-                                                         role="progressbar" style="width: 80%" aria-valuenow="85"
+                                                         role="progressbar" style="width: 80%" aria-valuenow="80"
                                                          aria-valuemin="0" aria-valuemax="100"><span
                                                             class="percent-label">80%</span></div>
                                                 </div>
                                             </div>
                                             <!-- End Single Progress Charts -->
+
+                                            <!-- Start Single Progress Charts -->
+                                            <div class="progress-charts">
+                                                <h6 class="heading heading-h6">Spring Boot</h6>
+                                                <div class="progress">
+                                                    <div class="progress-bar wow fadeInLeft"
+                                                         data-wow-duration="0.8s" data-wow-delay=".6s"
+                                                         role="progressbar" style="width: 75%" aria-valuenow="75"
+                                                         aria-valuemin="0" aria-valuemax="100"><span
+                                                            class="percent-label">75%</span></div>
+                                                </div>
+                                            </div>
+                                            <!-- End Single Progress Charts -->
+
 
                                         </div>
                                     </div>
@@ -306,9 +308,9 @@
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.7s" data-wow-delay=".5s"
-                                                         role="progressbar" style="width: 95%" aria-valuenow="85"
+                                                         role="progressbar" style="width: 85%" aria-valuenow="85"
                                                          aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">90%</span></div>
+                                                            class="percent-label">85%</span></div>
                                                 </div>
                                             </div>
                                             <!-- End Single Progress Charts -->
@@ -332,9 +334,9 @@
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.9s" data-wow-delay=".7s"
-                                                         role="progressbar" style="width: 85%" aria-valuenow="85"
+                                                         role="progressbar" style="width: 70%" aria-valuenow="85"
                                                          aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">85%</span></div>
+                                                            class="percent-label">70%</span></div>
                                                 </div>
                                             </div>
                                             <!-- End Single Progress Charts -->
@@ -363,18 +365,7 @@
                                             </div>
                                             <!-- End Single Progress Charts -->
 
-                                            <!-- Start Single Progress Charts -->
-                                            <div class="progress-charts">
-                                                <h6 class="heading heading-h6">JAVA</h6>
-                                                <div class="progress">
-                                                    <div class="progress-bar wow fadeInLeft"
-                                                         data-wow-duration="0.6s" data-wow-delay=".4s"
-                                                         role="progressbar" style="width: 90%" aria-valuenow="85"
-                                                         aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">90%</span></div>
-                                                </div>
-                                            </div>
-                                            <!-- End Single Progress Charts -->
+
 
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
@@ -398,6 +389,19 @@
                                                          role="progressbar" style="width: 90%" aria-valuenow="85"
                                                          aria-valuemin="0" aria-valuemax="100"><span
                                                             class="percent-label">90%</span></div>
+                                                </div>
+                                            </div>
+                                            <!-- End Single Progress Charts -->
+
+                                            <!-- Start Single Progress Charts -->
+                                            <div class="progress-charts">
+                                                <h6 class="heading heading-h6">JAVA</h6>
+                                                <div class="progress">
+                                                    <div class="progress-bar wow fadeInLeft"
+                                                         data-wow-duration="0.6s" data-wow-delay=".4s"
+                                                         role="progressbar" style="width: 80%" aria-valuenow="85"
+                                                         aria-valuemin="0" aria-valuemax="100"><span
+                                                            class="percent-label">80%</span></div>
                                                 </div>
                                             </div>
                                             <!-- End Single Progress Charts -->
@@ -439,15 +443,29 @@
                                             </div>
                                             <!-- End Single Progress Charts -->
 
+
+                                            <!-- Start Single Progress Charts -->
+                                            <div class="progress-charts">
+                                                <h6 class="heading heading-h6">ETL</h6>
+                                                <div class="progress">
+                                                    <div class="progress-bar wow fadeInLeft"
+                                                         data-wow-duration="0.9s" data-wow-delay=".7s"
+                                                         role="progressbar" style="width: 90%" aria-valuenow="85"
+                                                         aria-valuemin="0" aria-valuemax="100"><span
+                                                            class="percent-label">90%</span></div>
+                                                </div>
+                                            </div>
+                                            <!-- End Single Progress Charts -->
+
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
                                                 <h6 class="heading heading-h6">Apache Airflow</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.6s" data-wow-delay=".4s"
-                                                         role="progressbar" style="width: 85%" aria-valuenow="85"
+                                                         role="progressbar" style="width: 75%" aria-valuenow="85"
                                                          aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">85%</span></div>
+                                                            class="percent-label">75%</span></div>
                                                 </div>
                                             </div>
                                             <!-- End Single Progress Charts -->
@@ -478,18 +496,6 @@
                                             </div>
                                             <!-- End Single Progress Charts -->
 
-                                            <!-- Start Single Progress Charts -->
-                                            <div class="progress-charts">
-                                                <h6 class="heading heading-h6">Kibana</h6>
-                                                <div class="progress">
-                                                    <div class="progress-bar wow fadeInLeft"
-                                                         data-wow-duration="0.9s" data-wow-delay=".7s"
-                                                         role="progressbar" style="width: 75%" aria-valuenow="85"
-                                                         aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">75%</span></div>
-                                                </div>
-                                            </div>
-                                            <!-- End Single Progress Charts -->
 
                                         </div>
                                     </div>
@@ -501,9 +507,23 @@
                                     <div class="progress-wrapper">
                                         <div class="content">
                                             <h4 class="maintitle">Frontend Skills</h4>
+
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
-                                                <h6 class="heading heading-h6">Angular</h6>
+                                                <h6 class="heading heading-h6">NuxtJs</h6>
+                                                <div class="progress">
+                                                    <div class="progress-bar wow fadeInLeft"
+                                                         data-wow-duration="0.6s" data-wow-delay=".4s"
+                                                         role="progressbar" style="width: 85%" aria-valuenow="85"
+                                                         aria-valuemin="0" aria-valuemax="100"><span
+                                                            class="percent-label">85%</span></div>
+                                                </div>
+                                            </div>
+                                            <!-- End Single Progress Charts -->
+
+                                            <!-- Start Single Progress Charts -->
+                                            <div class="progress-charts">
+                                                <h6 class="heading heading-h6">VueJs</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.6s" data-wow-delay=".4s"
@@ -517,13 +537,13 @@
 
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
-                                                <h6 class="heading heading-h6">NuxtJs</h6>
+                                                <h6 class="heading heading-h6">Angular/React</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.6s" data-wow-delay=".4s"
-                                                         role="progressbar" style="width: 75%" aria-valuenow="85"
+                                                         role="progressbar" style="width: 70%" aria-valuenow="85"
                                                          aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">75%</span></div>
+                                                            class="percent-label">70%</span></div>
                                                 </div>
                                             </div>
                                             <!-- End Single Progress Charts -->
@@ -549,6 +569,29 @@
                                     <div class="content">
                                         <h4 class="maintitle">Professional Experiences</h4>
                                         <div class="experience-list">
+
+
+                                            <!-- Start Single List  -->
+                                            <div class="resume-single-list">
+                                                <div class="inner">
+                                                    <div class="heading">
+                                                        <div class="title">
+                                                            <h4>Full Time Backend Engineer</h4>
+                                                            <span>Backend Engineer (Sep 2022 - Present)</span>
+                                                        </div>
+                                                    </div>
+                                                    <p class="description">
+                                                        - <strong>Laravel Performance Optimization</strong> (Optimizing
+                                                        queries, caching, Database Indexing, reducing unused css/js).
+                                                        <br>
+                                                        <br>
+                                                        - <strong>Developing</strong> new <strong>APIs</strong>
+                                                        endpoints.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                            <!-- End Single List  -->
+
 
                                             <!-- Start Single List  -->
                                             <div class="resume-single-list">

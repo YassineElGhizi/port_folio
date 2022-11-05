@@ -182,7 +182,7 @@
                                     </div>
                                 </div>
                                 <h4 class="title"><a href="javascript:void(0)">News Platform Regarding The
-                                        Russo-Ukrainian War News
+                                        Russo-Ukrainian War
                                         <i class="feather-arrow-up-right"></i></a></h4>
                             </div>
                         </div>
@@ -207,8 +207,8 @@
                                         <a href="javascript:void(0)">Full Stack Spring Boot/Angular</a>
                                     </div>
                                 </div>
-                                <h4 class="title"><a href="javascript:void(0)">Rock Paper Scissors (In Production)
-                                        <i class="feather-arrow-up-right"></i></a></h4>
+                                <h4 class="title"><a href="javascript:void(0)">Rock Paper Scissors<i
+                                            class="feather-arrow-up-right"></i></a></h4>
                             </div>
                         </div>
                     </div>
@@ -619,8 +619,8 @@
                                     Spring security) and Angular 14(State Management using Redux)</p>
                                 <br>
                                 <p><a class="title"
-                                      href="https://rock-paper-scissors.yassineelghizi.me/"><i
-                                            class="feather-arrow-up-right"></i>Play !</a></p>
+                                      href="https://github.com/YassineElGhizi/spring_boot_mvc_with_authentication_todo_app"><i
+                                            class="feather-arrow-up-right"></i>Github Repo</a></p>
                             </div>
                             <!-- End of .text-content -->
                         </div>
