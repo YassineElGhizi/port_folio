@@ -227,7 +227,7 @@
 
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
-                                                <h6 class="heading heading-h6">Flask - Django</h6>
+                                                <h6 class="heading heading-h6">Flask</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.7s" data-wow-delay=".5s"
@@ -241,7 +241,7 @@
 
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
-                                                <h6 class="heading heading-h6">ExpressJs</h6>
+                                                <h6 class="heading heading-h6">Django</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.9s" data-wow-delay=".7s"
@@ -254,13 +254,13 @@
 
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
-                                                <h6 class="heading heading-h6">Spring Boot</h6>
+                                                <h6 class="heading heading-h6">Express Js</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.8s" data-wow-delay=".6s"
                                                          role="progressbar" style="width: 75%" aria-valuenow="75"
                                                          aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">75%</span></div>
+                                                            class="percent-label">80%</span></div>
                                                 </div>
                                             </div>
                                             <!-- End Single Progress Charts -->
@@ -364,7 +364,6 @@
                                                 </div>
                                             </div>
                                             <!-- End Single Progress Charts -->
-
 
 
                                             <!-- Start Single Progress Charts -->
@@ -576,17 +575,26 @@
                                                 <div class="inner">
                                                     <div class="heading">
                                                         <div class="title">
-                                                            <h4>Full Time Backend Engineer</h4>
-                                                            <span>Backend Engineer (Sep 2022 - Present)</span>
+                                                            <h4>BACKEND DEVELOPER</h4>
+                                                            <span>(Sep 2022 - Present) PHP/Laravel - Python Fast API - Optimization</span>
                                                         </div>
                                                     </div>
                                                     <p class="description">
-                                                        - <strong>Laravel Performance Optimization</strong> (Optimizing
-                                                        queries, caching, Database Indexing, reducing unused css/js).
+                                                        - <strong>Maintaining & Optimizing performance</strong> of +4
+                                                        years old
+                                                        <string>Laravel</string>
+                                                        projects.
                                                         <br>
                                                         <br>
-                                                        - <strong>Developing</strong> new <strong>APIs</strong>
-                                                        endpoints.
+                                                        - <strong>Profiling</strong> and <strong>Pptimizing SQL</strong>
+                                                        queries.
+                                                        <br>
+                                                        <br>
+                                                        - Building an <strong>ETL</strong> data pipeline to validates,
+                                                        processes media files, and migrates data using:
+                                                        <strong>Python</strong> ,<strong>Fast API</strong> , <strong>Sqlite3</strong>,
+                                                        <strong>MySQL</strong>,<strong>Shell</strong> ,
+                                                        <strong>FFMPEG</strong>
                                                     </p>
                                                 </div>
                                             </div>
@@ -598,17 +606,13 @@
                                                 <div class="inner">
                                                     <div class="heading">
                                                         <div class="title">
-                                                            <h4>Master Degree : End of Study Project Internship</h4>
-                                                            <span>Data & Software engineer (Feb 2022 - Aug 2022)</span>
+                                                            <h4>FULL STACK WEB DEVELOPER</h4>
+                                                            <span>(Feb 2022 - Aug 2022) PHP/LARAVEL - Vue JS/NUXT - Python Fast API</span>
                                                         </div>
                                                     </div>
                                                     <p class="description">
-                                                        - <strong>Design</strong> , <strong>study</strong> and <strong>choice</strong>
-                                                        of: technologies, caching, indexing and backup strategies.
-                                                        <br>
-                                                        <br>
-                                                        - <strong>Development</strong> and <strong>Automation</strong>
-                                                        of <strong>ETL</strong> data pipelines using <strong>Apache
+                                                        - <strong>Development</strong>
+                                                        of an <strong>ETL</strong> data pipeline using <strong>Apache
                                                             Airflow</strong>
                                                         , <strong>Python</strong> , <strong>MongoDB</strong>, <strong>Web
                                                             Scraping</strong>,
@@ -625,10 +629,6 @@
                                                             Mysql</strong>.
                                                         <br>
                                                         <br>
-                                                        - API <strong> performance optimization</strong> with <strong>Redis</strong>
-                                                        and <strong>database indexing</strong>.
-                                                        <br>
-                                                        <br>
                                                         - <strong>Deployment</strong> of the system to the cloud
                                                         (<strong>ubuntu server</strong> & <strong>Nginx</strong> ).
                                                     </p>
@@ -641,8 +641,8 @@
                                                 <div class="inner">
                                                     <div class="heading">
                                                         <div class="title">
-                                                            <h4>Summer Internship</h4>
-                                                            <span>Data & Software engineer (Aug 2021 - Sep 2021)</span>
+                                                            <h4>FULL STACK DEVELOPER</h4>
+                                                            <span>(Aug 2021 - Sep 2021) PHP/Laravel - Python Flask - MySQL</span>
                                                         </div>
                                                     </div>
                                                     <p class="description">
@@ -670,16 +670,16 @@
                                                 <div class="inner">
                                                     <div class="heading">
                                                         <div class="title">
-                                                            <h4>Bachelor Degree : End of Study Internship</h4>
-                                                            <span>Full Stack Developer (Feb 2020 - Aug 2020)</span>
+                                                            <h4>FULL STACK DEVELOPER</h4>
+                                                            <span>(Feb 2020 - Aug 2020) PHP/Laravel - React - MySQL</span>
                                                         </div>
                                                     </div>
                                                     <p class="description">
-                                                        Design and development of a web application with some advanced
-                                                        features (barcode scanner, web sockets) with :
-                                                        <br>
-                                                        <strong>ReactJs</strong> - <strong>Laravel API</strong> -
-                                                        <strong>MySQL</strong>.
+                                                        Development of a <strong>Full stack web application</strong> for
+                                                        managing patients’ historical records:
+                                                        - Front end development with <strong>React</strong>.
+                                                        - Rest API Development with <strong>Laravel</strong> and
+                                                        <strong>MySQL</strong>
                                                     </p>
                                                 </div>
                                             </div>

@@ -24,7 +24,7 @@
                         <div class="content">
                             <h4 class="title"><a>Rest APIs</a></h4>
                             <p class="description">I develop robust and fast APIs using different technologies including
-                                JavaScript ExpressJS,Python FastAPI,Python Flask,PHP Laravel, and Java Spring Boot. <br>
+                                nodejs/ExpressJS,Python/FastAPI ,Python/Flask, and PHP/Laravel. <br>
                                 I
                                 can also improve existing APIs performances by profiling and optimizing Database
                                 bottleneck queries.</p>
@@ -48,8 +48,9 @@
                         <div class="content">
                             <h4 class="title"><a>Full Stack web Applications</a></h4>
                             <p class="description">I develop full stack web applications using different frameworks such
-                                as :PHP Laravel, Java Spring Boot, JavaScript ExpressJs, Angular and NuxtJs. <br> My academic formation in Big Data Makes me comfortable with both the Structured and
-                                    non-structured Databases. </p>
+                                as :Laravel, Django, VueJs and NuxtJs. <br> My
+                                academic formation in Big Data Makes me comfortable with both the Structured and
+                                non-structured Databases. </p>
 
                         </div>
                     </div>
@@ -57,7 +58,6 @@
                 </div>
             </div>
             <!-- End SIngle Service -->
-
 
 
             <!-- Start Single Service -->
@@ -70,9 +70,9 @@
                         </div>
                         <div class="content">
                             <h4 class="title"><a>Data Pipelines</a></h4>
-                            <p class="description">I build and automate robust data pipelines to move data from one
+                            <p class="description">I build and automate ETL data pipelines to move data from one
                                 source to different destinations after applying any kind of data transformations using
-                                Python , Apache airflow and different cloud storage providers. </p>
+                                Python, Apache airflow. </p>
 
                         </div>
                     </div>
