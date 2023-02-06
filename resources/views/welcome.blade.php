@@ -453,8 +453,8 @@
                                     That Covers The Latest Updates Regarding The Russo-ukrainian War. A project that is
                                     Already In Production And That I'm Proud Of.</p>
                                 <br>
-                                <p><a class="title" href="https://ukranews.net/"><i
-                                            class="feather-arrow-up-right"></i>Visit The Website</a></p>
+{{--                                <p><a class="title" href="https://ukranews.net/"><i--}}
+{{--                                            class="feather-arrow-up-right"></i>Visit The Website</a></p>--}}
                             </div>
                             <!-- End of .text-content -->
                         </div>

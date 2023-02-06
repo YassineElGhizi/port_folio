@@ -214,26 +214,26 @@
 
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
-                                                <h6 class="heading heading-h6">FastAPI</h6>
+                                                <h6 class="heading heading-h6">Django - Django REST Framework</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.6s" data-wow-delay=".4s"
-                                                         role="progressbar" style="width: 90%" aria-valuenow="85"
+                                                         role="progressbar" style="width: 95%" aria-valuenow="95"
                                                          aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">90%</span></div>
+                                                            class="percent-label">95%</span></div>
                                                 </div>
                                             </div>
                                             <!-- End Single Progress Charts -->
 
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
-                                                <h6 class="heading heading-h6">Flask</h6>
+                                                <h6 class="heading heading-h6">Flask / Fast API</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.7s" data-wow-delay=".5s"
-                                                         role="progressbar" style="width: 90%" aria-valuenow="85"
+                                                         role="progressbar" style="width: 95%" aria-valuenow="85"
                                                          aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">90%</span></div>
+                                                            class="percent-label">95%</span></div>
                                                 </div>
                                             </div>
                                             <!-- End Single Progress Charts -->
@@ -241,24 +241,24 @@
 
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
-                                                <h6 class="heading heading-h6">Django</h6>
+                                                <h6 class="heading heading-h6">Express JS</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.9s" data-wow-delay=".7s"
-                                                         role="progressbar" style="width: 80%" aria-valuenow="80"
+                                                         role="progressbar" style="width: 85%" aria-valuenow="80"
                                                          aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">80%</span></div>
+                                                            class="percent-label">85%</span></div>
                                                 </div>
                                             </div>
                                             <!-- End Single Progress Charts -->
 
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
-                                                <h6 class="heading heading-h6">Express Js</h6>
+                                                <h6 class="heading heading-h6">Nest JS</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.8s" data-wow-delay=".6s"
-                                                         role="progressbar" style="width: 75%" aria-valuenow="75"
+                                                         role="progressbar" style="width: 80%" aria-valuenow="75"
                                                          aria-valuemin="0" aria-valuemax="100"><span
                                                             class="percent-label">80%</span></div>
                                                 </div>
@@ -368,13 +368,13 @@
 
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
-                                                <h6 class="heading heading-h6">JavaScript</h6>
+                                                <h6 class="heading heading-h6">JavaScript | Node Js</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.7s" data-wow-delay=".5s"
-                                                         role="progressbar" style="width: 90%" aria-valuenow="85"
+                                                         role="progressbar" style="width: 85%" aria-valuenow="85"
                                                          aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">90%</span></div>
+                                                            class="percent-label">85%</span></div>
                                                 </div>
                                             </div>
                                             <!-- End Single Progress Charts -->
@@ -385,9 +385,9 @@
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.8s" data-wow-delay=".6s"
-                                                         role="progressbar" style="width: 90%" aria-valuenow="85"
+                                                         role="progressbar" style="width: 85%" aria-valuenow="85"
                                                          aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">90%</span></div>
+                                                            class="percent-label">85%</span></div>
                                                 </div>
                                             </div>
                                             <!-- End Single Progress Charts -->
@@ -536,7 +536,7 @@
 
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
-                                                <h6 class="heading heading-h6">Angular/React</h6>
+                                                <h6 class="heading heading-h6">Angular/React/React Native</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.6s" data-wow-delay=".4s"
@@ -586,14 +586,14 @@
                                                         projects.
                                                         <br>
                                                         <br>
-                                                        - <strong>Profiling</strong> and <strong>Pptimizing SQL</strong>
+                                                        - <strong>Profiling</strong> and <strong>Optimizing SQL</strong>
                                                         queries.
                                                         <br>
                                                         <br>
                                                         - Building an <strong>ETL</strong> data pipeline to validates,
                                                         processes media files, and migrates data using:
-                                                        <strong>Python</strong> ,<strong>Fast API</strong> , <strong>Sqlite3</strong>,
-                                                        <strong>MySQL</strong>,<strong>Shell</strong> ,
+                                                        <strong>Python</strong> ,<strong>Fast
+                                                            API</strong>,<strong>MySQL</strong>,<strong>Shell</strong> ,
                                                         <strong>FFMPEG</strong>
                                                     </p>
                                                 </div>

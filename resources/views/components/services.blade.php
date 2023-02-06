@@ -24,9 +24,8 @@
                         <div class="content">
                             <h4 class="title"><a>Rest APIs</a></h4>
                             <p class="description">I develop robust and fast APIs using different technologies including
-                                nodejs/ExpressJS,Python/FastAPI ,Python/Flask, and PHP/Laravel. <br>
-                                I
-                                can also improve existing APIs performances by profiling and optimizing Database
+                                Nodejs/ExpressJS,Python/Django REST Framework/FastAPI/Flask, and PHP/Laravel. <br>
+                                I can also improve existing APIs performances by profiling and optimizing Database
                                 bottleneck queries.</p>
 
                         </div>
@@ -48,7 +47,7 @@
                         <div class="content">
                             <h4 class="title"><a>Full Stack web Applications</a></h4>
                             <p class="description">I develop full stack web applications using different frameworks such
-                                as :Laravel, Django, VueJs and NuxtJs. <br> My
+                                as :Laravel/Livewire, Django, VueJs and NuxtJs. <br> My
                                 academic formation in Big Data Makes me comfortable with both the Structured and
                                 non-structured Databases. </p>
 
@@ -72,7 +71,7 @@
                             <h4 class="title"><a>Data Pipelines</a></h4>
                             <p class="description">I build and automate ETL data pipelines to move data from one
                                 source to different destinations after applying any kind of data transformations using
-                                Python, Apache airflow. </p>
+                                Python. </p>
 
                         </div>
                     </div>
