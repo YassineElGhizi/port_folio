@@ -129,9 +129,9 @@
                                 <span>I am a</span>
                             <!-- ROTATING TEXT -->
                             <span class="cd-words-wrapper">
-                                    <b class="is-visible">Full Stack Developer.</b>
+                                    <b class="is-visible">Backend Engineer.</b>
                                     <b class="is-hidden">Data Engineer.</b>
-                                    <b class="is-hidden">Backend Developer.</b>
+                                    <b class="is-hidden">Python Magician.</b>
                                 </span>
                             </span>
                         <!-- type headline end -->

@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title text-center">
-                    <span class="subtitle">1.5+ Years of Experience</span>
+                    <span class="subtitle">2+ Years of Experience</span>
                     <h2 class="title">My Resume</h2>
                 </div>
             </div>
@@ -81,10 +81,45 @@
                                 <!-- Start Skill List Area 2nd  -->
                                 <div class="col-lg-6 col-md-12 col-12 mt_md--60 mt_sm--60">
                                     <div class="content">
-                                        <span class="subtitle">2021 - 2022</span>
+                                        <span class="subtitle">2021 - 2024</span>
                                         <h4 class="maintitle">Certifications</h4>
                                         <div class="experience-list">
 
+                                            <!-- Start Single List  -->
+                                            <div class="resume-single-list">
+                                                <div class="inner">
+                                                    <div class="heading">
+                                                        <div class="title">
+                                                            <h4>PostgreSQL Databases & Python</h4>
+                                                            <span>May 2023</span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="description">
+                                                    <a href="https://www.udemy.com/certificate/UC-ac276ffb-d819-45c5-8fb5-74a4264a91cb">Show
+                                                        Credentials</a>
+                                                </div>
+                                            </div>
+                                            <!-- End Single List  -->
+
+                                            <!-- Start Single List  -->
+                                            <div class="resume-single-list">
+                                                <div class="inner">
+                                                    <div class="heading">
+                                                        <div class="title">
+                                                            <h4>Python Performance Optimization</h4>
+                                                            <span>Apr 2023</span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="description">
+                                                    <a href="https://www.udemy.com/certificate/UC-30d9c795-327c-4505-b08c-ea35bc03aff2">Show
+                                                        Credentials</a>
+                                                </div>
+                                            </div>
+                                            <!-- End Single List  -->
 
                                             <!-- Start Single List  -->
                                             <div class="resume-single-list">
@@ -201,7 +236,7 @@
                                             <h4 class="maintitle">Backend Skills</h4>
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
-                                                <h6 class="heading heading-h6">Laravel</h6>
+                                                <h6 class="heading heading-h6">Django - Django Rest Framework (DRF)</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.5s" data-wow-delay=".3s"
@@ -214,7 +249,7 @@
 
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
-                                                <h6 class="heading heading-h6">Django - Django REST Framework</h6>
+                                                <h6 class="heading heading-h6">Fast API</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.6s" data-wow-delay=".4s"
@@ -227,7 +262,7 @@
 
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
-                                                <h6 class="heading heading-h6">Flask / Fast API</h6>
+                                                <h6 class="heading heading-h6">Flask</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.7s" data-wow-delay=".5s"
@@ -241,20 +276,20 @@
 
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
-                                                <h6 class="heading heading-h6">Express JS</h6>
+                                                <h6 class="heading heading-h6">Laravel</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.9s" data-wow-delay=".7s"
-                                                         role="progressbar" style="width: 85%" aria-valuenow="80"
+                                                         role="progressbar" style="width: 90%" aria-valuenow="80"
                                                          aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">85%</span></div>
+                                                            class="percent-label">90%</span></div>
                                                 </div>
                                             </div>
                                             <!-- End Single Progress Charts -->
 
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
-                                                <h6 class="heading heading-h6">Nest JS</h6>
+                                                <h6 class="heading heading-h6">Express JS / Nest JS</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.8s" data-wow-delay=".6s"
@@ -278,20 +313,20 @@
                                             <h4 class="maintitle">DB Administration</h4>
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
-                                                <h6 class="heading heading-h6">MySql</h6>
+                                                <h6 class="heading heading-h6">PostgresSQL</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.5s" data-wow-delay=".3s"
-                                                         role="progressbar" style="width: 100%" aria-valuenow="85"
+                                                         role="progressbar" style="width: 95%" aria-valuenow="85"
                                                          aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">100%</span></div>
+                                                            class="percent-label">95%</span></div>
                                                 </div>
                                             </div>
                                             <!-- End Single Progress Charts -->
 
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
-                                                <h6 class="heading heading-h6">PostgresSql</h6>
+                                                <h6 class="heading heading-h6">MySQL</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.6s" data-wow-delay=".4s"
@@ -304,20 +339,20 @@
 
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
-                                                <h6 class="heading heading-h6">MongoDB</h6>
+                                                <h6 class="heading heading-h6">Microsoft SQL Server</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.7s" data-wow-delay=".5s"
-                                                         role="progressbar" style="width: 85%" aria-valuenow="85"
+                                                         role="progressbar" style="width:90%" aria-valuenow="85"
                                                          aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">85%</span></div>
+                                                            class="percent-label">90%</span></div>
                                                 </div>
                                             </div>
                                             <!-- End Single Progress Charts -->
 
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
-                                                <h6 class="heading heading-h6">Microsoft SQL Server</h6>
+                                                <h6 class="heading heading-h6">Redis</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.8s" data-wow-delay=".6s"
@@ -330,13 +365,13 @@
 
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
-                                                <h6 class="heading heading-h6">Redis</h6>
+                                                <h6 class="heading heading-h6">MongoDB</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.9s" data-wow-delay=".7s"
-                                                         role="progressbar" style="width: 70%" aria-valuenow="85"
+                                                         role="progressbar" style="width: 80%" aria-valuenow="85"
                                                          aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">70%</span></div>
+                                                            class="percent-label">80%</span></div>
                                                 </div>
                                             </div>
                                             <!-- End Single Progress Charts -->
@@ -368,10 +403,23 @@
 
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
-                                                <h6 class="heading heading-h6">JavaScript | Node Js</h6>
+                                                <h6 class="heading heading-h6">SQL</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.7s" data-wow-delay=".5s"
+                                                         role="progressbar" style="width: 90%" aria-valuenow="85"
+                                                         aria-valuemin="0" aria-valuemax="100"><span
+                                                            class="percent-label">90%</span></div>
+                                                </div>
+                                            </div>
+                                            <!-- End Single Progress Charts -->
+
+                                            <!-- Start Single Progress Charts -->
+                                            <div class="progress-charts">
+                                                <h6 class="heading heading-h6">JavaScript | Node Js</h6>
+                                                <div class="progress">
+                                                    <div class="progress-bar wow fadeInLeft"
+                                                         data-wow-duration="0.8s" data-wow-delay=".6s"
                                                          role="progressbar" style="width: 85%" aria-valuenow="85"
                                                          aria-valuemin="0" aria-valuemax="100"><span
                                                             class="percent-label">85%</span></div>
@@ -384,7 +432,7 @@
                                                 <h6 class="heading heading-h6">PHP</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
-                                                         data-wow-duration="0.8s" data-wow-delay=".6s"
+                                                         data-wow-duration="0.6s" data-wow-delay=".4s"
                                                          role="progressbar" style="width: 85%" aria-valuenow="85"
                                                          aria-valuemin="0" aria-valuemax="100"><span
                                                             class="percent-label">85%</span></div>
@@ -397,23 +445,10 @@
                                                 <h6 class="heading heading-h6">JAVA</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
-                                                         data-wow-duration="0.6s" data-wow-delay=".4s"
-                                                         role="progressbar" style="width: 80%" aria-valuenow="85"
-                                                         aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">80%</span></div>
-                                                </div>
-                                            </div>
-                                            <!-- End Single Progress Charts -->
-
-                                            <!-- Start Single Progress Charts -->
-                                            <div class="progress-charts">
-                                                <h6 class="heading heading-h6">C</h6>
-                                                <div class="progress">
-                                                    <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.9s" data-wow-delay=".7s"
-                                                         role="progressbar" style="width: 70%" aria-valuenow="85"
+                                                         role="progressbar" style="width: 75%" aria-valuenow="85"
                                                          aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">70%</span></div>
+                                                            class="percent-label">75%</span></div>
                                                 </div>
                                             </div>
                                             <!-- End Single Progress Charts -->
@@ -428,16 +463,16 @@
                                 <div class="col-lg-6 col-md-6 col-12 mt_sm--60 mt-5">
                                     <div class="progress-wrapper">
                                         <div class="content">
-                                            <h4 class="maintitle">Data Engineering</h4>
+                                            <h4 class="maintitle">Cloud & Data Engineering</h4>
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
-                                                <h6 class="heading heading-h6">Web Scraping</h6>
+                                                <h6 class="heading heading-h6">Amazon Lambda</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.5s" data-wow-delay=".3s"
-                                                         role="progressbar" style="width: 95%" aria-valuenow="85"
+                                                         role="progressbar" style="width: 90%" aria-valuenow="85"
                                                          aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">95%</span></div>
+                                                            class="percent-label">90%</span></div>
                                                 </div>
                                             </div>
                                             <!-- End Single Progress Charts -->
@@ -445,7 +480,7 @@
 
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
-                                                <h6 class="heading heading-h6">ETL</h6>
+                                                <h6 class="heading heading-h6">Amazon API Gateway</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.9s" data-wow-delay=".7s"
@@ -458,39 +493,39 @@
 
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
-                                                <h6 class="heading heading-h6">Apache Airflow</h6>
+                                                <h6 class="heading heading-h6">ETL</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.6s" data-wow-delay=".4s"
-                                                         role="progressbar" style="width: 75%" aria-valuenow="85"
+                                                         role="progressbar" style="width: 95%" aria-valuenow="85"
                                                          aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">75%</span></div>
+                                                            class="percent-label">95%</span></div>
                                                 </div>
                                             </div>
                                             <!-- End Single Progress Charts -->
 
                                             <!-- Start Single Progress Charts -->
                                             <div class="progress-charts">
-                                                <h6 class="heading heading-h6">Apache kafka</h6>
-                                                <div class="progress">
-                                                    <div class="progress-bar wow fadeInLeft"
-                                                         data-wow-duration="0.7s" data-wow-delay=".5s"
-                                                         role="progressbar" style="width: 75%" aria-valuenow="85"
-                                                         aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">75%</span></div>
-                                                </div>
-                                            </div>
-                                            <!-- End Single Progress Charts -->
-
-                                            <!-- Start Single Progress Charts -->
-                                            <div class="progress-charts">
-                                                <h6 class="heading heading-h6">ElasticSearch</h6>
+                                                <h6 class="heading heading-h6">Celery</h6>
                                                 <div class="progress">
                                                     <div class="progress-bar wow fadeInLeft"
                                                          data-wow-duration="0.8s" data-wow-delay=".6s"
-                                                         role="progressbar" style="width: 75%" aria-valuenow="85"
+                                                         role="progressbar" style="width: 90%" aria-valuenow="85"
                                                          aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">75%</span></div>
+                                                            class="percent-label">90%</span></div>
+                                                </div>
+                                            </div>
+                                            <!-- End Single Progress Charts -->
+
+                                            <!-- Start Single Progress Charts -->
+                                            <div class="progress-charts">
+                                                <h6 class="heading heading-h6">Web Scraping</h6>
+                                                <div class="progress">
+                                                    <div class="progress-bar wow fadeInLeft"
+                                                         data-wow-duration="0.7s" data-wow-delay=".5s"
+                                                         role="progressbar" style="width: 80%" aria-valuenow="85"
+                                                         aria-valuemin="0" aria-valuemax="100"><span
+                                                            class="percent-label">80%</span></div>
                                                 </div>
                                             </div>
                                             <!-- End Single Progress Charts -->
@@ -501,57 +536,57 @@
                                 </div>
                                 <!-- End Single Progressbar  -->
 
-                                <!-- Start Single Progressbar  -->
-                                <div class="col-lg-6 col-md-6 col-12 mt_sm--60 mt-5">
-                                    <div class="progress-wrapper">
-                                        <div class="content">
-                                            <h4 class="maintitle">Frontend Skills</h4>
+                                {{--                                <!-- Start Single Progressbar  -->--}}
+                                {{--                                <div class="col-lg-6 col-md-6 col-12 mt_sm--60 mt-5">--}}
+                                {{--                                    <div class="progress-wrapper">--}}
+                                {{--                                        <div class="content">--}}
+                                {{--                                            <h4 class="maintitle">Frontend Skills</h4>--}}
 
-                                            <!-- Start Single Progress Charts -->
-                                            <div class="progress-charts">
-                                                <h6 class="heading heading-h6">NuxtJs</h6>
-                                                <div class="progress">
-                                                    <div class="progress-bar wow fadeInLeft"
-                                                         data-wow-duration="0.6s" data-wow-delay=".4s"
-                                                         role="progressbar" style="width: 85%" aria-valuenow="85"
-                                                         aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">85%</span></div>
-                                                </div>
-                                            </div>
-                                            <!-- End Single Progress Charts -->
+                                {{--                                            <!-- Start Single Progress Charts -->--}}
+                                {{--                                            <div class="progress-charts">--}}
+                                {{--                                                <h6 class="heading heading-h6">NuxtJs</h6>--}}
+                                {{--                                                <div class="progress">--}}
+                                {{--                                                    <div class="progress-bar wow fadeInLeft"--}}
+                                {{--                                                         data-wow-duration="0.6s" data-wow-delay=".4s"--}}
+                                {{--                                                         role="progressbar" style="width: 85%" aria-valuenow="85"--}}
+                                {{--                                                         aria-valuemin="0" aria-valuemax="100"><span--}}
+                                {{--                                                            class="percent-label">85%</span></div>--}}
+                                {{--                                                </div>--}}
+                                {{--                                            </div>--}}
+                                {{--                                            <!-- End Single Progress Charts -->--}}
 
-                                            <!-- Start Single Progress Charts -->
-                                            <div class="progress-charts">
-                                                <h6 class="heading heading-h6">VueJs</h6>
-                                                <div class="progress">
-                                                    <div class="progress-bar wow fadeInLeft"
-                                                         data-wow-duration="0.6s" data-wow-delay=".4s"
-                                                         role="progressbar" style="width: 85%" aria-valuenow="85"
-                                                         aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">85%</span></div>
-                                                </div>
-                                            </div>
-                                            <!-- End Single Progress Charts -->
-
-
-                                            <!-- Start Single Progress Charts -->
-                                            <div class="progress-charts">
-                                                <h6 class="heading heading-h6">Angular/React/React Native</h6>
-                                                <div class="progress">
-                                                    <div class="progress-bar wow fadeInLeft"
-                                                         data-wow-duration="0.6s" data-wow-delay=".4s"
-                                                         role="progressbar" style="width: 70%" aria-valuenow="85"
-                                                         aria-valuemin="0" aria-valuemax="100"><span
-                                                            class="percent-label">70%</span></div>
-                                                </div>
-                                            </div>
-                                            <!-- End Single Progress Charts -->
+                                {{--                                            <!-- Start Single Progress Charts -->--}}
+                                {{--                                            <div class="progress-charts">--}}
+                                {{--                                                <h6 class="heading heading-h6">VueJs</h6>--}}
+                                {{--                                                <div class="progress">--}}
+                                {{--                                                    <div class="progress-bar wow fadeInLeft"--}}
+                                {{--                                                         data-wow-duration="0.6s" data-wow-delay=".4s"--}}
+                                {{--                                                         role="progressbar" style="width: 85%" aria-valuenow="85"--}}
+                                {{--                                                         aria-valuemin="0" aria-valuemax="100"><span--}}
+                                {{--                                                            class="percent-label">85%</span></div>--}}
+                                {{--                                                </div>--}}
+                                {{--                                            </div>--}}
+                                {{--                                            <!-- End Single Progress Charts -->--}}
 
 
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- End Single Progressbar  -->
+                                {{--                                            <!-- Start Single Progress Charts -->--}}
+                                {{--                                            <div class="progress-charts">--}}
+                                {{--                                                <h6 class="heading heading-h6">Angular/React/React Native</h6>--}}
+                                {{--                                                <div class="progress">--}}
+                                {{--                                                    <div class="progress-bar wow fadeInLeft"--}}
+                                {{--                                                         data-wow-duration="0.6s" data-wow-delay=".4s"--}}
+                                {{--                                                         role="progressbar" style="width: 70%" aria-valuenow="85"--}}
+                                {{--                                                         aria-valuemin="0" aria-valuemax="100"><span--}}
+                                {{--                                                            class="percent-label">70%</span></div>--}}
+                                {{--                                                </div>--}}
+                                {{--                                            </div>--}}
+                                {{--                                            <!-- End Single Progress Charts -->--}}
+
+
+                                {{--                                        </div>--}}
+                                {{--                                    </div>--}}
+                                {{--                                </div>--}}
+                                {{--                                <!-- End Single Progressbar  -->--}}
 
 
                             </div>
@@ -569,14 +604,41 @@
                                         <h4 class="maintitle">Professional Experiences</h4>
                                         <div class="experience-list">
 
+                                            <!-- Start Single List  -->
+                                            <div class="resume-single-list">
+                                                <div class="inner">
+                                                    <div class="heading">
+                                                        <div class="title">
+                                                            <h4>BACKEND ENGINEER</h4>
+                                                            <span>(Feb 2022 - now) Python/Django - Django Rest Framework - Celery</span>
+                                                        </div>
+                                                    </div>
+                                                    <p class="description">
+                                                        -Building <strong>Backend Systems</strong> ( Django, Postgres,
+                                                        Redis, Docker, Amazon Web Services: EC2, RDS, S3, Lambda, API
+                                                        Gateway, SNS).<br>
+                                                        -Building <strong>asynchronous</strong> data <strong>task queue
+                                                            systems</strong> (Celery/Redis/Django).<br>
+                                                        -Building <strong>ETL</strong> data pipelines.<br>
+                                                        -<strong>Building APIs</strong> (Django Rest Framework).<br>
+                                                        -APIs <strong>Documentation</strong> (Swagger OpenAPI).<br>
+                                                        -API <strong>Performance Optimization</strong>.<br>
+                                                        -<strong>Conception</strong> & <strong>Database design</strong>.<br>
+                                                        -Writing <strong>unit/integration tests</strong>.<br>
+                                                        -<strong>Task estimation</strong>.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                            <!-- End Single List  -->
+
 
                                             <!-- Start Single List  -->
                                             <div class="resume-single-list">
                                                 <div class="inner">
                                                     <div class="heading">
                                                         <div class="title">
-                                                            <h4>BACKEND DEVELOPER</h4>
-                                                            <span>(Sep 2022 - Present) PHP/Laravel - Python Fast API - Optimization</span>
+                                                            <h4>BACKEND ENGINEER</h4>
+                                                            <span>(Oct 2022 - Feb 2023) PHP/Laravel - Python Fast API - Optimization</span>
                                                         </div>
                                                     </div>
                                                     <p class="description">
@@ -585,10 +647,8 @@
                                                         <string>Laravel</string>
                                                         projects.
                                                         <br>
-                                                        <br>
                                                         - <strong>Profiling</strong> and <strong>Optimizing SQL</strong>
                                                         queries.
-                                                        <br>
                                                         <br>
                                                         - Building an <strong>ETL</strong> data pipeline to validates,
                                                         processes media files, and migrates data using:
@@ -606,8 +666,8 @@
                                                 <div class="inner">
                                                     <div class="heading">
                                                         <div class="title">
-                                                            <h4>FULL STACK WEB DEVELOPER</h4>
-                                                            <span>(Feb 2022 - Aug 2022) PHP/LARAVEL - Vue JS/NUXT - Python Fast API</span>
+                                                            <h4>BACKEND ENGINEER INTERN</h4>
+                                                            <span>(Feb 2022 - Jun 2022) PHP/LARAVEL - Vue JS/NUXT - Python Fast API - Web Scraping - ETL</span>
                                                         </div>
                                                     </div>
                                                     <p class="description">
@@ -618,19 +678,20 @@
                                                             Scraping</strong>,
                                                         <strong>Amazon S3 bucket</strong>.
                                                         <br>
-                                                        <br>
+
                                                         - <strong>Development</strong> and
                                                         <strong>Documentation</strong> of a <strong>Restful API</strong>
                                                         with <strong>FastAPI</strong>.
-                                                        <br>
                                                         <br>
                                                         - <strong>Development</strong> of a <strong>Full Stack Web
                                                             Application</strong> with <strong>NuxtJs, VueJs, Laravel,
                                                             Mysql</strong>.
                                                         <br>
-                                                        <br>
-                                                        - <strong>Deployment</strong> of the system to the cloud
-                                                        (<strong>ubuntu server</strong> & <strong>Nginx</strong> ).
+                                                        -
+                                                        <strong>API performance optimization</strong>
+                                                        with <strong>caching</strong> policies using
+                                                        <strong>Redis</strong>
+                                                        and <strong>database indexing</strong>.
                                                     </p>
                                                 </div>
                                             </div>
@@ -641,19 +702,17 @@
                                                 <div class="inner">
                                                     <div class="heading">
                                                         <div class="title">
-                                                            <h4>FULL STACK DEVELOPER</h4>
-                                                            <span>(Aug 2021 - Sep 2021) PHP/Laravel - Python Flask - MySQL</span>
+                                                            <h4>BACKEND DEVELOPER INTERN</h4>
+                                                            <span>(Aug 2021 - Oct 2021) PHP/Laravel - Python Flask - MySQL - Web Scraping</span>
                                                         </div>
                                                     </div>
                                                     <p class="description">
                                                         - <strong>Development</strong> of <strong>web scrapers</strong>
                                                         using <strong>Python</strong>
                                                         <br>
-                                                        <br>
                                                         - <strong>Development of a Rest API </strong> with
                                                         <strong>Flask</strong> to receive and store data from the web
                                                         scrapers.
-                                                        <br>
                                                         <br>
                                                         - <strong>Development</strong> of a <strong>Full Stack Web
                                                             Application</strong> in <strong>Laravel</strong> to control
@@ -670,17 +729,19 @@
                                                 <div class="inner">
                                                     <div class="heading">
                                                         <div class="title">
-                                                            <h4>FULL STACK DEVELOPER</h4>
-                                                            <span>(Feb 2020 - Aug 2020) PHP/Laravel - React - MySQL</span>
+                                                            <h4>FULL STACK DEVELOPER INTERN</h4>
+                                                            <span>(Apr 2020 - Aug 2020) PHP/Laravel - React - MySQL</span>
                                                         </div>
                                                     </div>
                                                     <p class="description">
-                                                        Development of a <strong>Full stack web application</strong> for
-                                                        managing patients’ historical records:
-                                                        - Front end development with <strong>React</strong>.
-                                                        - Rest API Development with <strong>Laravel</strong> and
-                                                        <strong>MySQL</strong>
+                                                        Development of a <strong>Development of a web application
+                                                            using </strong>
+                                                        :<br/>
+                                                        - <strong>React Js</strong>.<br/>
+                                                        - <strong>Laravel</strong>.<br/>
+                                                        - <strong>MySQL</strong>
                                                     </p>
+
                                                 </div>
                                             </div>
                                             <!-- End Single List  -->

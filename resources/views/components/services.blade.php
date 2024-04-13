@@ -22,11 +22,18 @@
                             <i data-feather="hard-drive"></i>
                         </div>
                         <div class="content">
-                            <h4 class="title"><a>Rest APIs</a></h4>
-                            <p class="description">I develop robust and fast APIs using different technologies including
-                                Nodejs/ExpressJS,Python/Django REST Framework/FastAPI/Flask, and PHP/Laravel. <br>
-                                I can also improve existing APIs performances by profiling and optimizing Database
-                                bottleneck queries.</p>
+                            <h4 class="title"><a>Backend Systems</a></h4>
+                            <p class="description">I specialize in building robust backend systems using various
+                                technologies such as Django, Celery, Redis, Docker, and Amazon web services (AWS) like
+                                EC2, RDS, S3, Lambda, SNS, and API Gateway for scalability and efficiency; This includes
+                                creating asynchronous task queue systems and designing secure APIs using Django Rest
+                                Framework (RDS).<br/> I focus on optimizing API performance through database query
+                                profiling
+                                and comprehensive unit and integration testing, emphasizing quality and reliability in
+                                system design. Additionally, I provide task estimation and utilize Swagger OpenAPI for
+                                detailed API documentation to support seamless integration and collaboration among
+                                development teams.
+                            </p>
 
                         </div>
                     </div>
@@ -42,14 +49,18 @@
                 <div class="rn-service">
                     <div class="inner">
                         <div class="icon">
-                            <i data-feather="globe"></i>
+                            <i data-feather="zap"></i>
                         </div>
                         <div class="content">
-                            <h4 class="title"><a>Full Stack web Applications</a></h4>
-                            <p class="description">I develop full stack web applications using different frameworks such
-                                as :Laravel/Livewire, Django, VueJs and NuxtJs. <br> My
-                                academic formation in Big Data Makes me comfortable with both the Structured and
-                                non-structured Databases. </p>
+                            <h4 class="title"><a>Performance Optimization</a></h4>
+                            <p class="description">I specialize in optimizing the performance of backend systems and
+                                data pipelines, with a strong focus on SQL query optimization. Using techniques such as
+                                load testing, caching strategies, and fine-tuning database queries, I ensure that
+                                systems operate efficiently under varying workloads.<br/> I excel in identifying and
+                                resolving performance bottlenecks, particularly in SQL queries, to enhance system
+                                responsiveness and cost-effectiveness. My expertise in performance optimization and SQL
+                                query tuning ensures that backend solutions deliver high availability and optimal user
+                                experiences, enabling businesses to operate smoothly and efficiently.</p>
 
                         </div>
                     </div>
@@ -69,9 +80,13 @@
                         </div>
                         <div class="content">
                             <h4 class="title"><a>Data Pipelines</a></h4>
-                            <p class="description">I build and automate ETL data pipelines to move data from one
-                                source to different destinations after applying any kind of data transformations using
-                                Python. </p>
+                            <p class="description">I specialize in designing and implementing efficient data pipelines
+                                that streamline the extraction, transformation, and loading (ETL) processes for diverse
+                                datasets sources including files, APIs, databases, and web scraping. Leveraging
+                                technologies like Python (including libraries like Pandas), Celery, Apache Airflow, and
+                                SQL.<br/> I architect robust pipelines that ensure reliable data flow and
+                                transformation. My expertise extends to optimizing pipeline performance through
+                                parallel processing, caching, and efficient database querying techniques. </p>
 
                         </div>
                     </div>
